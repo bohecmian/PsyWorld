@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GitHub/PsyWorld/psy/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/GitHub/PsyWorld/psy/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/GitHub/PsyWorld/psy/Content/UI/HeathBarEmpty.uasset",
+				"D:/GitHub/PsyWorld/psy/Content/UI/HeathBarFill.uasset",
+				"D:/GitHub/PsyWorld/psy/Content/UI/HeathWidget.uasset",
+				"D:/GitHub/PsyWorld/psy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/GitHub/PsyWorld/psy/Content/UI/HealthWidget.uasset"
 			]
 		}
 	]
