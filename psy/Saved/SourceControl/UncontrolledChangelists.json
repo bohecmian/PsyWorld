@@ -8,9 +8,11 @@
 				"D:/GitHub/PsyWorld/psy/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/GitHub/PsyWorld/psy/Content/UI/HeathBarEmpty.uasset",
 				"D:/GitHub/PsyWorld/psy/Content/UI/HeathBarFill.uasset",
-				"D:/GitHub/PsyWorld/psy/Content/UI/HeathWidget.uasset",
 				"D:/GitHub/PsyWorld/psy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/GitHub/PsyWorld/psy/Content/UI/HealthWidget.uasset"
+				"D:/GitHub/PsyWorld/psy/Content/UI/HealthWidget.uasset",
+				"D:/GitHub/PsyWorld/psy/Content/BP/NewBlueprint.uasset",
+				"D:/GitHub/PsyWorld/psy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/OX/OD8OTY90NG97LTL4S4MKID.uasset",
+				"D:/GitHub/PsyWorld/psy/Content/UI/HeathWidget.uasset"
 			]
 		}
 	]
