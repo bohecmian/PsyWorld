@@ -2142,3 +2142,1194 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.12.06-22.00.59:969][ 16]LogFileHelpers: Loading map 'Demonstration' took 15.091
 [2024.12.06-22.00.59:976][ 16]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003094s (11.579297s overbudget)
 [2024.12.06-22.01.00:319][ 19]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.12.06-22.02.02:792][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.06-22.02.03:065][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Deck_Roof_02...
+[2024.12.06-22.02.03:066][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_ExteriorWall_UpperFloor_02...
+[2024.12.06-22.02.03:066][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_ExteriorWall_UpperFloor_Corner_02...
+[2024.12.06-22.02.03:066][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_ExteriorWall_GroundFloor_Window_02...
+[2024.12.06-22.02.03:066][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_ExteriorWall_GroundFloor_03...
+[2024.12.06-22.02.03:067][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Interior_StairsSide_Left_01...
+[2024.12.06-22.02.03:067][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Interior_StairsSide_02...
+[2024.12.06-22.02.03:067][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Deck_Roof_InnerCorner_01...
+[2024.12.06-22.02.03:067][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_ExteriorWall_GroundFloor_Window_03...
+[2024.12.06-22.02.03:067][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_DrainPipe_02...
+[2024.12.06-22.02.03:067][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_ExteriorWall_UpperFloor_Window_03...
+[2024.12.06-22.02.03:068][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_DeckRail_01...
+[2024.12.06-22.02.03:068][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Interior_Stairs_02...
+[2024.12.06-22.02.03:068][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_ExteriorWall_GroundFloor_Door_03...
+[2024.12.06-22.02.03:068][376]LogStaticMesh: Display: Building static mesh SM_Bld_Chimney_02...
+[2024.12.06-22.02.03:068][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Interior_Stairs_03...
+[2024.12.06-22.02.03:068][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Deck_Roof_03...
+[2024.12.06-22.02.03:069][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_ExteriorWall_GroundFloor_02...
+[2024.12.06-22.02.03:069][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Interior_Rail_03...
+[2024.12.06-22.02.03:069][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Deck_Roof_InnerCorner_03...
+[2024.12.06-22.02.03:069][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_ExteriorWall_UpperFloor_Corner_04...
+[2024.12.06-22.02.03:070][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_ExteriorWall_UpperFloor_Window_02...
+[2024.12.06-22.02.03:070][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_ExteriorWall_GroundFloor_Door_02...
+[2024.12.06-22.02.03:070][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_ExteriorWall_UpperFloor_03...
+[2024.12.06-22.02.03:070][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Interior_StairsRail_02...
+[2024.12.06-22.02.03:072][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Door_01...
+[2024.12.06-22.02.03:073][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Interior_StairsRail_Right_01...
+[2024.12.06-22.02.03:076][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Interior_StairsRail_03...
+[2024.12.06-22.02.03:076][376]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Deck_Roof_02.SM_Bld_House_Deck_Roof_02
+[2024.12.06-22.02.03:078][376]LogSkeletalMesh: Building Skeletal Mesh SK_Character_Daughter_01...
+[2024.12.06-22.02.03:078][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Interior_StairsSide_Right_01...
+[2024.12.06-22.02.03:079][376]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_GroundFloor_Window_02.SM_Bld_House_ExteriorWall_GroundFloor_Window_02
+[2024.12.06-22.02.03:080][376]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_GroundFloor_03.SM_Bld_House_ExteriorWall_GroundFloor_03
+[2024.12.06-22.02.03:080][376]LogSkeletalMesh: Building Skeletal Mesh SK_Character_Father_01...
+[2024.12.06-22.02.03:081][376]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonTown/Meshes/Characters/SK_Character_Daughter_01.SK_Character_Daughter_01
+[2024.12.06-22.02.03:081][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Interior_StairsWall_02...
+[2024.12.06-22.02.03:081][376]LogSkeletalMesh: Building Skeletal Mesh SK_Character_Father_02...
+[2024.12.06-22.02.03:082][376]LogSkeletalMesh: Building Skeletal Mesh SK_Character_Mother_01...
+[2024.12.06-22.02.03:083][376]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonTown/Meshes/Characters/SK_Character_Father_01.SK_Character_Father_01
+[2024.12.06-22.02.03:083][376]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_UpperFloor_02.SM_Bld_House_ExteriorWall_UpperFloor_02
+[2024.12.06-22.02.03:083][376]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonTown/Meshes/Characters/SK_Character_Father_02.SK_Character_Father_02
+[2024.12.06-22.02.03:084][376]LogSkeletalMesh: Building Skeletal Mesh SK_Character_Mother_02...
+[2024.12.06-22.02.03:084][376]LogSkeletalMesh: Building Skeletal Mesh SK_Character_SchoolBoy_01...
+[2024.12.06-22.02.03:085][376]LogSkeletalMesh: Building Skeletal Mesh SK_Character_SchoolGirl_01...
+[2024.12.06-22.02.03:085][376]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonTown/Meshes/Characters/SK_Character_Mother_01.SK_Character_Mother_01
+[2024.12.06-22.02.03:085][376]LogSkeletalMesh: Display: [AssetLog] D:\GitHub\PsyWorld\psy\Content\PolygonTown\Meshes\Characters\SK_Character_ShopKeeper_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2024.12.06-22.02.03:086][376]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonTown/Meshes/Characters/SK_Character_Mother_02.SK_Character_Mother_02
+[2024.12.06-22.02.03:086][376]LogSkeletalMesh: Display: [AssetLog] D:\GitHub\PsyWorld\psy\Content\PolygonTown\Meshes\Characters\SK_Character_Son_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2024.12.06-22.02.03:086][376]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_UpperFloor_Corner_02.SM_Bld_House_ExteriorWall_UpperFloor_Corner_02
+[2024.12.06-22.02.03:086][376]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonTown/Meshes/Characters/SK_Character_SchoolBoy_01.SK_Character_SchoolBoy_01
+[2024.12.06-22.02.03:086][376]LogSkeletalMesh: Building Skeletal Mesh SK_Character_Son_01...
+[2024.12.06-22.02.03:086][376]LogSkeletalMesh: Building Skeletal Mesh SK_Character_ShopKeeper_01...
+[2024.12.06-22.02.03:087][376]LogSkeletalMesh: Display: [AssetLog] D:\GitHub\PsyWorld\psy\Content\PolygonTown\Meshes\Vehicles\SK_Veh_Truck_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2024.12.06-22.02.03:087][376]LogSkeletalMesh: Building Skeletal Mesh SK_Veh_Truck_01...
+[2024.12.06-22.02.03:087][376]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonTown/Meshes/Characters/SK_Character_SchoolGirl_01.SK_Character_SchoolGirl_01
+[2024.12.06-22.02.03:087][376]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Interior_StairsSide_02.SM_Bld_House_Interior_StairsSide_02
+[2024.12.06-22.02.03:088][376]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonTown/Meshes/Characters/SK_Character_Son_01.SK_Character_Son_01
+[2024.12.06-22.02.03:088][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Interior_StairsWall_Left_01...
+[2024.12.06-22.02.03:088][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Interior_StairsWall_Right_01...
+[2024.12.06-22.02.03:088][376]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonTown/Meshes/Characters/SK_Character_ShopKeeper_01.SK_Character_ShopKeeper_01
+[2024.12.06-22.02.03:089][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_InteriorWall_03...
+[2024.12.06-22.02.03:089][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_InteriorWall_02...
+[2024.12.06-22.02.03:089][376]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_GroundFloor_Window_03.SM_Bld_House_ExteriorWall_GroundFloor_Window_03
+[2024.12.06-22.02.03:090][376]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Interior_StairsSide_Left_01.SM_Bld_House_Interior_StairsSide_Left_01
+[2024.12.06-22.02.03:091][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_InternalWall_Garage_Door_01...
+[2024.12.06-22.02.03:091][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_InternalWall_SingleGap_01...
+[2024.12.06-22.02.03:092][376]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PolygonTown/Meshes/Vehicles/SK_Veh_Truck_01.SK_Veh_Truck_01
+[2024.12.06-22.02.03:092][376]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_UpperFloor_Window_03.SM_Bld_House_ExteriorWall_UpperFloor_Window_03
+[2024.12.06-22.02.03:094][376]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Interior_Stairs_02.SM_Bld_House_Interior_Stairs_02
+[2024.12.06-22.02.03:095][376]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Deck_Roof_InnerCorner_01.SM_Bld_House_Deck_Roof_InnerCorner_01
+[2024.12.06-22.02.03:095][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_RanchSlider_01...
+[2024.12.06-22.02.03:096][376]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_Chimney_02.SM_Bld_Chimney_02
+[2024.12.06-22.02.03:096][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_RanchSlider_Door_01...
+[2024.12.06-22.02.03:097][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Roof_Angled_Cap_02...
+[2024.12.06-22.02.03:098][376]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_GroundFloor_02.SM_Bld_House_ExteriorWall_GroundFloor_02
+[2024.12.06-22.02.03:099][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Roof_Angled_Cap_Corner_01...
+[2024.12.06-22.02.03:099][376]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_DrainPipe_02.SM_Bld_House_DrainPipe_02
+[2024.12.06-22.02.03:100][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Roof_Angled_Cap_Corner_Short_01...
+[2024.12.06-22.02.03:101][376]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Interior_Rail_03.SM_Bld_House_Interior_Rail_03
+[2024.12.06-22.02.03:102][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Roof_Angled_Corner_Middle_02...
+[2024.12.06-22.02.03:104][376]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Deck_Roof_03.SM_Bld_House_Deck_Roof_03
+[2024.12.06-22.02.03:105][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Preset_05...
+[2024.12.06-22.02.03:105][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Roof_Angled_Gutter_03...
+[2024.12.06-22.02.03:106][376]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_GroundFloor_Door_03.SM_Bld_House_ExteriorWall_GroundFloor_Door_03
+[2024.12.06-22.02.03:107][376]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Interior_Stairs_03.SM_Bld_House_Interior_Stairs_03
+[2024.12.06-22.02.03:108][376]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_UpperFloor_03.SM_Bld_House_ExteriorWall_UpperFloor_03
+[2024.12.06-22.02.03:108][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Roof_End_01...
+[2024.12.06-22.02.03:109][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Roof_Flat_01...
+[2024.12.06-22.02.03:109][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Roof_End_04...
+[2024.12.06-22.02.03:110][376]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_UpperFloor_Corner_04.SM_Bld_House_ExteriorWall_UpperFloor_Corner_04
+[2024.12.06-22.02.03:112][376]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_UpperFloor_Window_02.SM_Bld_House_ExteriorWall_UpperFloor_Window_02
+[2024.12.06-22.02.03:112][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Roof_Flat_Corner_01...
+[2024.12.06-22.02.03:113][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Roof_FlatLip_01...
+[2024.12.06-22.02.03:113][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_DeckRail_01.SM_Bld_House_DeckRail_01
+[2024.12.06-22.02.03:114][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_ExteriorWall_GroundFloor_Door_02.SM_Bld_House_ExteriorWall_GroundFloor_Door_02
+[2024.12.06-22.02.03:115][376]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonTown/Maps/Overview.Overview
+[2024.12.06-22.02.03:115][376]Cmd: MAP LOAD FILE="D:/GitHub/PsyWorld/psy/Content/PolygonTown/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.06-22.02.03:115][376]LightingResults: New page: Lighting Build
+[2024.12.06-22.02.03:115][376]LoadErrors: New page: Loading map: Overview.umap
+[2024.12.06-22.02.03:116][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Window_01...
+[2024.12.06-22.02.03:116][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Window_03...
+[2024.12.06-22.02.03:118][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Deck_Roof_InnerCorner_03.SM_Bld_House_Deck_Roof_InnerCorner_03
+[2024.12.06-22.02.03:119][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Interior_StairsRail_02.SM_Bld_House_Interior_StairsRail_02
+[2024.12.06-22.02.03:121][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Window_05...
+[2024.12.06-22.02.03:122][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Window_04...
+[2024.12.06-22.02.03:123][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Door_01.SM_Bld_House_Door_01
+[2024.12.06-22.02.03:125][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Window_Curtains_Closed_01...
+[2024.12.06-22.02.03:126][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Interior_StairsSide_Right_01.SM_Bld_House_Interior_StairsSide_Right_01
+[2024.12.06-22.02.03:127][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Interior_StairsRail_Right_01.SM_Bld_House_Interior_StairsRail_Right_01
+[2024.12.06-22.02.03:128][376]LogStaticMesh: Display: Building static mesh SM_Bld_House_Window_Shutters_Closed_01...
+[2024.12.06-22.02.03:129][376]LogStaticMesh: Display: Building static mesh SM_Bld_Shop_Concrete_01...
+[2024.12.06-22.02.03:129][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Interior_StairsRail_03.SM_Bld_House_Interior_StairsRail_03
+[2024.12.06-22.02.03:131][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Interior_StairsWall_02.SM_Bld_House_Interior_StairsWall_02
+[2024.12.06-22.02.03:131][376]LogStaticMesh: Display: Building static mesh SM_Env_DirtPatch_01...
+[2024.12.06-22.02.03:132][376]LogStaticMesh: Display: Building static mesh SM_Env_Driveway_01...
+[2024.12.06-22.02.03:132][376]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Interior_StairsWall_Right_01.SM_Bld_House_Interior_StairsWall_Right_01
+[2024.12.06-22.02.03:133][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_InteriorWall_02.SM_Bld_House_InteriorWall_02
+[2024.12.06-22.02.03:134][376]LogStaticMesh: Display: Building static mesh SM_Env_Driveway_PathBoth_01...
+[2024.12.06-22.02.03:135][376]LogStaticMesh: Display: Building static mesh SM_Env_Driveway_PathLeft_01...
+[2024.12.06-22.02.03:136][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_InteriorWall_03.SM_Bld_House_InteriorWall_03
+[2024.12.06-22.02.03:137][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Interior_StairsWall_Left_01.SM_Bld_House_Interior_StairsWall_Left_01
+[2024.12.06-22.02.03:137][376]LogStaticMesh: Display: Building static mesh SM_Env_Driveway_PathRight_01...
+[2024.12.06-22.02.03:138][376]LogStaticMesh: Display: Building static mesh SM_Env_Driveway_Wide_PathBoth_01...
+[2024.12.06-22.02.03:138][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_InternalWall_SingleGap_01.SM_Bld_House_InternalWall_SingleGap_01
+[2024.12.06-22.02.03:140][376]LogStaticMesh: Display: Building static mesh SM_Env_Driveway_Wide_PathLeft_01...
+[2024.12.06-22.02.03:140][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_InternalWall_Garage_Door_01.SM_Bld_House_InternalWall_Garage_Door_01
+[2024.12.06-22.02.03:141][376]LogStaticMesh: Display: Building static mesh SM_Env_Driveway_Wide_PathRight_01...
+[2024.12.06-22.02.03:142][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_RanchSlider_01.SM_Bld_House_RanchSlider_01
+[2024.12.06-22.02.03:143][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_RanchSlider_Door_01.SM_Bld_House_RanchSlider_Door_01
+[2024.12.06-22.02.03:143][376]LogStaticMesh: Display: Building static mesh SM_Env_Fence_White_Gate_01_Door...
+[2024.12.06-22.02.03:144][376]LogStaticMesh: Display: Building static mesh SM_Env_Garden_Corner_01...
+[2024.12.06-22.02.03:144][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Roof_Angled_Cap_02.SM_Bld_House_Roof_Angled_Cap_02
+[2024.12.06-22.02.03:146][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Roof_Angled_Cap_Corner_01.SM_Bld_House_Roof_Angled_Cap_Corner_01
+[2024.12.06-22.02.03:146][376]LogStaticMesh: Display: Building static mesh SM_Env_Garden_Straight_02...
+[2024.12.06-22.02.03:147][376]LogStaticMesh: Display: Building static mesh SM_Env_Garden_TSection_01...
+[2024.12.06-22.02.03:148][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Roof_Angled_Cap_Corner_Short_01.SM_Bld_House_Roof_Angled_Cap_Corner_Short_01
+[2024.12.06-22.02.03:150][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Roof_Angled_Corner_Middle_02.SM_Bld_House_Roof_Angled_Corner_Middle_02
+[2024.12.06-22.02.03:150][376]LogStaticMesh: Display: Building static mesh SM_Env_Grass_02...
+[2024.12.06-22.02.03:152][376]LogStaticMesh: Display: Building static mesh SM_Env_Hedge_03...
+[2024.12.06-22.02.03:152][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Roof_Angled_Gutter_03.SM_Bld_House_Roof_Angled_Gutter_03
+[2024.12.06-22.02.03:153][376]LogStaticMesh: Display: Building static mesh SM_Env_Path_02...
+[2024.12.06-22.02.03:154][376]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Roof_Flat_01.SM_Bld_House_Roof_Flat_01
+[2024.12.06-22.02.03:155][376]LogStaticMesh: Display: Building static mesh SM_Env_Path_Door_01...
+[2024.12.06-22.02.03:155][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Roof_End_01.SM_Bld_House_Roof_End_01
+[2024.12.06-22.02.03:157][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Roof_End_04.SM_Bld_House_Roof_End_04
+[2024.12.06-22.02.03:158][376]LogStaticMesh: Display: Building static mesh SM_Env_Path_DoorLeft_01...
+[2024.12.06-22.02.03:158][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Roof_Flat_Corner_01.SM_Bld_House_Roof_Flat_Corner_01
+[2024.12.06-22.02.03:159][376]LogStaticMesh: Display: Building static mesh SM_Env_Path_DoorLeft_02...
+[2024.12.06-22.02.03:159][376]LogStaticMesh: Display: Building static mesh SM_Env_PathRight_01...
+[2024.12.06-22.02.03:160][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Roof_FlatLip_01.SM_Bld_House_Roof_FlatLip_01
+[2024.12.06-22.02.03:162][376]LogStaticMesh: Built static mesh [0.06s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_05.SM_Bld_House_Preset_05
+[2024.12.06-22.02.03:162][376]LogStaticMesh: Display: Building static mesh SM_Env_Plant_Lettuce_01...
+[2024.12.06-22.02.03:163][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Window_01.SM_Bld_House_Window_01
+[2024.12.06-22.02.03:164][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Window_03.SM_Bld_House_Window_03
+[2024.12.06-22.02.03:165][376]LogStaticMesh: Display: Building static mesh SM_Env_Plant_Vege_01...
+[2024.12.06-22.02.03:166][376]LogStaticMesh: Display: Building static mesh SM_Env_Sidewalk_Driveway_01...
+[2024.12.06-22.02.03:168][376]LogStaticMesh: Display: Building static mesh SM_Env_Sidewalk_Straight_02...
+[2024.12.06-22.02.03:168][376]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-22.02.03:169][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Window_05.SM_Bld_House_Window_05
+[2024.12.06-22.02.03:169][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.02.03:169][376]MapCheck: New page: Map Check
+[2024.12.06-22.02.03:169][376]LightingResults: New page: Lighting Build
+[2024.12.06-22.02.03:170][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Window_04.SM_Bld_House_Window_04
+[2024.12.06-22.02.03:170][376]LogStaticMesh: Display: Building static mesh SM_Env_Sidewalk_Straight_04...
+[2024.12.06-22.02.03:171][376]LogStaticMesh: Display: Building static mesh SM_Env_Tree_DirtPile_01...
+[2024.12.06-22.02.03:173][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Window_Curtains_Closed_01.SM_Bld_House_Window_Curtains_Closed_01
+[2024.12.06-22.02.03:174][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Window_Shutters_Closed_01.SM_Bld_House_Window_Shutters_Closed_01
+[2024.12.06-22.02.03:175][376]LogStaticMesh: Display: Building static mesh SM_Generic_Cloud_04...
+[2024.12.06-22.02.03:175][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_Shop_Concrete_01.SM_Bld_Shop_Concrete_01
+[2024.12.06-22.02.03:178][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_DirtPatch_01.SM_Env_DirtPatch_01
+[2024.12.06-22.02.03:178][376]LogStaticMesh: Display: Building static mesh SM_Generic_Ground_01...
+[2024.12.06-22.02.03:179][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Driveway_01.SM_Env_Driveway_01
+[2024.12.06-22.02.03:179][376]LogStaticMesh: Display: Building static mesh SM_Generic_Cloud_05...
+[2024.12.06-22.02.03:180][376]LogStaticMesh: Display: Building static mesh SM_Generic_Ground_02...
+[2024.12.06-22.02.03:180][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Driveway_PathBoth_01.SM_Env_Driveway_PathBoth_01
+[2024.12.06-22.02.03:181][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Driveway_PathLeft_01.SM_Env_Driveway_PathLeft_01
+[2024.12.06-22.02.03:182][376]LogStaticMesh: Display: Building static mesh SM_Generic_Ground_04...
+[2024.12.06-22.02.03:183][376]LogStaticMesh: Display: Building static mesh SM_Generic_Ground_Tile_01...
+[2024.12.06-22.02.03:183][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Driveway_PathRight_01.SM_Env_Driveway_PathRight_01
+[2024.12.06-22.02.03:184][376]LogStaticMesh: Display: Building static mesh SM_Generic_Ground_Flat_01...
+[2024.12.06-22.02.03:185][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Driveway_Wide_PathBoth_01.SM_Env_Driveway_Wide_PathBoth_01
+[2024.12.06-22.02.03:185][376]LogStaticMesh: Display: Building static mesh SM_Generic_Mountains_Soft_01...
+[2024.12.06-22.02.03:186][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Driveway_Wide_PathLeft_01.SM_Env_Driveway_Wide_PathLeft_01
+[2024.12.06-22.02.03:186][376]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-22.02.03:187][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Driveway_Wide_PathRight_01.SM_Env_Driveway_Wide_PathRight_01
+[2024.12.06-22.02.03:188][376]LogStaticMesh: Display: Building static mesh SM_Generic_Ocean_Tile_Bumps_01...
+[2024.12.06-22.02.03:189][376]LogStaticMesh: Display: Building static mesh SM_Generic_Ocean_Tile_Flat_01...
+[2024.12.06-22.02.03:190][376]LogStaticMesh: Display: Building static mesh SM_Generic_Small_Rocks_01...
+[2024.12.06-22.02.03:190][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_White_Gate_01_Door.SM_Env_Fence_White_Gate_01_Door
+[2024.12.06-22.02.03:191][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Garden_Corner_01.SM_Env_Garden_Corner_01
+[2024.12.06-22.02.03:192][376]LogStaticMesh: Display: Building static mesh SM_Generic_Small_Rocks_02...
+[2024.12.06-22.02.03:192][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Garden_Straight_02.SM_Env_Garden_Straight_02
+[2024.12.06-22.02.03:193][376]LogStaticMesh: Display: Building static mesh SM_Generic_Small_Rocks_03...
+[2024.12.06-22.02.03:194][376]LogStaticMesh: Display: Building static mesh SM_Generic_Small_Rocks_04...
+[2024.12.06-22.02.03:195][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Garden_TSection_01.SM_Env_Garden_TSection_01
+[2024.12.06-22.02.03:196][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Grass_02.SM_Env_Grass_02
+[2024.12.06-22.02.03:196][376]LogStaticMesh: Display: Building static mesh SM_Generic_Small_Rocks_05...
+[2024.12.06-22.02.03:198][376]LogStaticMesh: Display: Building static mesh SM_Generic_TreeStump_01...
+[2024.12.06-22.02.03:198][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Hedge_03.SM_Env_Hedge_03
+[2024.12.06-22.02.03:201][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Path_02.SM_Env_Path_02
+[2024.12.06-22.02.03:202][376]LogStaticMesh: Display: Building static mesh SM_Gerneric_Grass_Patch_01...
+[2024.12.06-22.02.03:202][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Path_Door_01.SM_Env_Path_Door_01
+[2024.12.06-22.02.03:202][376]LogStaticMesh: Display: Building static mesh SM_Item_Alcohol_01...
+[2024.12.06-22.02.03:203][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.12.06-22.02.03:203][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Path_DoorLeft_01.SM_Env_Path_DoorLeft_01
+[2024.12.06-22.02.03:204][376]LogStaticMesh: Display: Building static mesh SM_Item_Alcohol_03...
+[2024.12.06-22.02.03:204][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Path_DoorLeft_02.SM_Env_Path_DoorLeft_02
+[2024.12.06-22.02.03:205][376]LogTexture: Display: Building textures: /Game/PolygonTown/Maps/Overview.ShadowMapTexture2D_2 (BGRA8, 64x32 x1x1x1) (Required Memory Estimate: 0.124989 MB), EncodeSpeed: Fast
+[2024.12.06-22.02.03:205][376]LogStaticMesh: Display: Building static mesh SM_Item_BeerCup_01...
+[2024.12.06-22.02.03:206][376]LogTexture: Display: Building textures: /Game/PolygonTown/Maps/Overview.ShadowMapTexture2D_1 (BGRA8, 256x128 x1x1x1) (Required Memory Estimate: 1.062489 MB), EncodeSpeed: Fast
+[2024.12.06-22.02.03:207][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_PathRight_01.SM_Env_PathRight_01
+[2024.12.06-22.02.03:207][376]LogTexture: Display: Building textures: /Game/PolygonTown/Maps/Overview.LQ_Lightmap_1_1 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 7.604136 MB), EncodeSpeed: Fast
+[2024.12.06-22.02.03:208][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Plant_Lettuce_01.SM_Env_Plant_Lettuce_01
+[2024.12.06-22.02.03:208][376]LogTexture: Display: Building textures: /Game/PolygonTown/Maps/Overview.LQ_Lightmap_0_2 (TFO_DXT1, 64x64 x1x1x1) (Required Memory Estimate: 0.533824 MB), EncodeSpeed: Fast
+[2024.12.06-22.02.03:208][376]LogStaticMesh: Display: Building static mesh SM_Item_Blade_01...
+[2024.12.06-22.02.03:209][376]LogTexture: Display: Building textures: /Game/PolygonTown/Maps/Overview.HQ_Lightmap1_1 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.479041 MB), EncodeSpeed: Fast
+[2024.12.06-22.02.03:209][376]LogTexture: Display: Building textures: /Game/PolygonTown/Maps/Overview.HQ_Lightmap0_2 (TFO_AutoDXT, 64x64 x1x1x1) (Required Memory Estimate: 0.713502 MB), EncodeSpeed: Fast
+[2024.12.06-22.02.03:209][376]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonTown/Meshes/Environment/SM_Env_Plant_Vege_01.SM_Env_Plant_Vege_01
+[2024.12.06-22.02.03:209][376]LogStaticMesh: Display: Building static mesh SM_Item_Boxcutter_01...
+[2024.12.06-22.02.03:211][376]LogStaticMesh: Display: Building static mesh SM_Item_Brush_01...
+[2024.12.06-22.02.03:211][376]LogStaticMesh: Display: Building static mesh SM_Item_Bread_01...
+[2024.12.06-22.02.03:213][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Sidewalk_Driveway_01.SM_Env_Sidewalk_Driveway_01
+[2024.12.06-22.02.03:214][376]LogStaticMesh: Display: Building static mesh SM_Item_Brush_02...
+[2024.12.06-22.02.03:215][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Sidewalk_Straight_02.SM_Env_Sidewalk_Straight_02
+[2024.12.06-22.02.03:216][376]LogStaticMesh: Display: Building static mesh SM_Prop_WorkShelf_01...
+[2024.12.06-22.02.03:216][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_DirtPile_01.SM_Env_Tree_DirtPile_01
+[2024.12.06-22.02.03:217][376]LogStaticMesh: Display: Building static mesh SM_Item_Can_01...
+[2024.12.06-22.02.03:218][376]LogStaticMesh: Display: Building static mesh SM_Prop_WashingLine_04...
+[2024.12.06-22.02.03:218][376]LogStaticMesh: Display: Building static mesh SM_Prop_WashingLine_03...
+[2024.12.06-22.02.03:218][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Environment/SM_Env_Sidewalk_Straight_04.SM_Env_Sidewalk_Straight_04
+[2024.12.06-22.02.03:221][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Generic/SM_Generic_Cloud_04.SM_Generic_Cloud_04
+[2024.12.06-22.02.03:222][376]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonTown/Meshes/Generic/SM_Generic_Ground_01.SM_Generic_Ground_01
+[2024.12.06-22.02.03:223][376]LogStaticMesh: Display: Building static mesh SM_Prop_WashingLine_02...
+[2024.12.06-22.02.03:224][376]LogStaticMesh: Display: Building static mesh SM_Prop_Wardrobe_02_Combined...
+[2024.12.06-22.02.03:225][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Generic/SM_Generic_Cloud_05.SM_Generic_Cloud_05
+[2024.12.06-22.02.03:226][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Generic/SM_Generic_Ground_02.SM_Generic_Ground_02
+[2024.12.06-22.02.03:227][376]LogStaticMesh: Display: Building static mesh SM_Prop_Wardrobe_01_Combined...
+[2024.12.06-22.02.03:227][376]LogStaticMesh: Display: Building static mesh SM_Prop_WashingLine_01...
+[2024.12.06-22.02.03:227][376]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonTown/Meshes/Generic/SM_Generic_Ground_Tile_01.SM_Generic_Ground_Tile_01
+[2024.12.06-22.02.03:228][376]LogStaticMesh: Display: Building static mesh SM_Prop_WallLight_01...
+[2024.12.06-22.02.03:228][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Generic/SM_Generic_Ground_04.SM_Generic_Ground_04
+[2024.12.06-22.02.03:228][376]LogStaticMesh: Display: Building static mesh SM_Prop_TVCabinet_02_Door_02...
+[2024.12.06-22.02.03:230][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Generic/SM_Generic_Ground_Flat_01.SM_Generic_Ground_Flat_01
+[2024.12.06-22.02.03:231][376]LogStaticMesh: Display: Building static mesh SM_Prop_TVCabinet_02_Door_01...
+[2024.12.06-22.02.03:232][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Generic/SM_Generic_Mountains_Soft_01.SM_Generic_Mountains_Soft_01
+[2024.12.06-22.02.03:233][376]LogStaticMesh: Display: Building static mesh SM_Prop_TVCabinet_02_Combined...
+[2024.12.06-22.02.03:233][376]LogStaticMesh: Display: Waiting for static meshes to be ready 0/307 (/Game/PolygonTown/Meshes/Props/SM_Prop_WorkShelf_01) ...
+[2024.12.06-22.02.03:233][376]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonTown/Meshes/Generic/SM_Generic_Small_Rocks_01.SM_Generic_Small_Rocks_01
+[2024.12.06-22.02.03:234][376]LogStaticMesh: Display: Building static mesh SM_Prop_TVCabinet_02...
+[2024.12.06-22.02.03:234][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Generic/SM_Generic_Ocean_Tile_Bumps_01.SM_Generic_Ocean_Tile_Bumps_01
+[2024.12.06-22.02.03:235][376]LogStaticMesh: Display: Building static mesh SM_Prop_TVCabinet_01_Door_04...
+[2024.12.06-22.02.03:236][376]LogStaticMesh: Display: Building static mesh SM_Prop_TVCabinet_01_Door_02...
+[2024.12.06-22.02.03:237][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Generic/SM_Generic_Ocean_Tile_Flat_01.SM_Generic_Ocean_Tile_Flat_01
+[2024.12.06-22.02.03:238][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Generic/SM_Generic_Small_Rocks_02.SM_Generic_Small_Rocks_02
+[2024.12.06-22.02.03:239][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Generic/SM_Generic_Small_Rocks_03.SM_Generic_Small_Rocks_03
+[2024.12.06-22.02.03:239][376]LogStaticMesh: Display: Building static mesh SM_Prop_TVCabinet_01_Combined...
+[2024.12.06-22.02.03:240][376]LogStaticMesh: Display: Building static mesh SM_Prop_ToyBlock_03...
+[2024.12.06-22.02.03:240][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Generic/SM_Generic_Small_Rocks_04.SM_Generic_Small_Rocks_04
+[2024.12.06-22.02.03:241][376]LogStaticMesh: Display: Building static mesh SM_Prop_ToyTrain_01...
+[2024.12.06-22.02.03:241][376]LogStaticMesh: Display: Building static mesh SM_Prop_ToyBlock_02...
+[2024.12.06-22.02.03:243][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Generic/SM_Generic_Small_Rocks_05.SM_Generic_Small_Rocks_05
+[2024.12.06-22.02.03:244][376]LogStaticMesh: Display: Building static mesh SM_Prop_ToyBlock_01...
+[2024.12.06-22.02.03:245][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Generic/SM_Generic_TreeStump_01.SM_Generic_TreeStump_01
+[2024.12.06-22.02.03:246][376]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonTown/Meshes/Items/SM_Item_Alcohol_01.SM_Item_Alcohol_01
+[2024.12.06-22.02.03:247][376]LogStaticMesh: Display: Building static mesh SM_Prop_TowelRack_01...
+[2024.12.06-22.02.03:248][376]LogStaticMesh: Display: Building static mesh SM_Prop_ToolBoard_01...
+[2024.12.06-22.02.03:248][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Generic/SM_Gerneric_Grass_Patch_01.SM_Gerneric_Grass_Patch_01
+[2024.12.06-22.02.03:249][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Alcohol_03.SM_Item_Alcohol_03
+[2024.12.06-22.02.03:250][376]LogStaticMesh: Display: Building static mesh SM_Prop_ToiletBrush_Stick_01...
+[2024.12.06-22.02.03:251][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_BeerCup_01.SM_Item_BeerCup_01
+[2024.12.06-22.02.03:251][376]LogStaticMesh: Display: Building static mesh SM_Prop_ToiletBrush_01...
+[2024.12.06-22.02.03:252][376]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonTown/Meshes/Items/SM_Item_Blade_01.SM_Item_Blade_01
+[2024.12.06-22.02.03:252][376]LogStaticMesh: Display: Building static mesh SM_Prop_Toilet_02_Seat...
+[2024.12.06-22.02.03:253][376]LogStaticMesh: Display: Building static mesh SM_Prop_Toilet_02_Lid...
+[2024.12.06-22.02.03:254][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Boxcutter_01.SM_Item_Boxcutter_01
+[2024.12.06-22.02.03:256][376]LogStaticMesh: Display: Building static mesh SM_Prop_Toilet_02...
+[2024.12.06-22.02.03:257][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Brush_01.SM_Item_Brush_01
+[2024.12.06-22.02.03:258][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Bread_01.SM_Item_Bread_01
+[2024.12.06-22.02.03:258][376]LogStaticMesh: Display: Building static mesh SM_Prop_Television_Remote_02...
+[2024.12.06-22.02.03:260][376]LogStaticMesh: Display: Building static mesh SM_Prop_Television_Old_01...
+[2024.12.06-22.02.03:262][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Brush_02.SM_Item_Brush_02
+[2024.12.06-22.02.03:263][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_WorkShelf_01.SM_Prop_WorkShelf_01
+[2024.12.06-22.02.03:263][376]LogStaticMesh: Display: Building static mesh SM_Prop_Television_Flat_Wall_01...
+[2024.12.06-22.02.03:265][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Can_01.SM_Item_Can_01
+[2024.12.06-22.02.03:265][376]LogStaticMesh: Display: Building static mesh SM_Prop_StreetSign_Arrow_01...
+[2024.12.06-22.02.03:267][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_WashingLine_04.SM_Prop_WashingLine_04
+[2024.12.06-22.02.03:267][376]LogStaticMesh: Display: Building static mesh SM_Prop_StreetSign_06...
+[2024.12.06-22.02.03:268][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_WashingLine_03.SM_Prop_WashingLine_03
+[2024.12.06-22.02.03:269][376]LogStaticMesh: Display: Building static mesh SM_Prop_StreetSign_05...
+[2024.12.06-22.02.03:271][376]LogStaticMesh: Display: Building static mesh SM_Prop_StreetSign_04...
+[2024.12.06-22.02.03:271][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Wardrobe_02_Combined.SM_Prop_Wardrobe_02_Combined
+[2024.12.06-22.02.03:274][376]LogStaticMesh: Display: Building static mesh SM_Prop_StreetSign_03...
+[2024.12.06-22.02.03:274][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_WashingLine_02.SM_Prop_WashingLine_02
+[2024.12.06-22.02.03:275][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Wardrobe_01_Combined.SM_Prop_Wardrobe_01_Combined
+[2024.12.06-22.02.03:277][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_WallLight_01.SM_Prop_WallLight_01
+[2024.12.06-22.02.03:277][376]LogStaticMesh: Display: Building static mesh SM_Prop_StreetSign_02...
+[2024.12.06-22.02.03:277][376]LogStaticMesh: Display: Building static mesh SM_Prop_StreetSign_01...
+[2024.12.06-22.02.03:278][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_TVCabinet_02_Door_02.SM_Prop_TVCabinet_02_Door_02
+[2024.12.06-22.02.03:280][376]LogStaticMesh: Display: Building static mesh SM_Prop_Stereo_Speaker_Tall_01...
+[2024.12.06-22.02.03:280][376]LogStaticMesh: Display: Building static mesh SM_Prop_Stereo_Speaker_Large_01...
+[2024.12.06-22.02.03:281][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_TVCabinet_02_Door_01.SM_Prop_TVCabinet_02_Door_01
+[2024.12.06-22.02.03:283][376]LogStaticMesh: Built static mesh [0.06s] /Game/PolygonTown/Meshes/Props/SM_Prop_WashingLine_01.SM_Prop_WashingLine_01
+[2024.12.06-22.02.03:283][376]LogStaticMesh: Display: Building static mesh SM_Prop_Stereo_Speaker_01...
+[2024.12.06-22.02.03:284][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_TVCabinet_02_Combined.SM_Prop_TVCabinet_02_Combined
+[2024.12.06-22.02.03:285][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_TVCabinet_02.SM_Prop_TVCabinet_02
+[2024.12.06-22.02.03:287][376]LogStaticMesh: Display: Building static mesh SM_Prop_Sign_01...
+[2024.12.06-22.02.03:287][376]LogStaticMesh: Display: Building static mesh SM_Prop_Sprinkler_01...
+[2024.12.06-22.02.03:287][376]LogStaticMesh: Display: Building static mesh SM_Prop_Stereo_01...
+[2024.12.06-22.02.03:288][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_TVCabinet_01_Door_04.SM_Prop_TVCabinet_01_Door_04
+[2024.12.06-22.02.03:289][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_TVCabinet_01_Door_02.SM_Prop_TVCabinet_01_Door_02
+[2024.12.06-22.02.03:290][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_ToyBlock_03.SM_Prop_ToyBlock_03
+[2024.12.06-22.02.03:291][376]LogStaticMesh: Display: Building static mesh SM_Prop_Shelf_01_Combined...
+[2024.12.06-22.02.03:291][376]LogStaticMesh: Display: Building static mesh SM_Prop_Scales_01...
+[2024.12.06-22.02.03:291][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_TVCabinet_01_Combined.SM_Prop_TVCabinet_01_Combined
+[2024.12.06-22.02.03:293][376]LogStaticMesh: Display: Building static mesh SM_Prop_Rug_01...
+[2024.12.06-22.02.03:294][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_ToyBlock_02.SM_Prop_ToyBlock_02
+[2024.12.06-22.02.03:294][376]LogStaticMesh: Display: Building static mesh SM_Prop_Propanel_02...
+[2024.12.06-22.02.03:295][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_ToyTrain_01.SM_Prop_ToyTrain_01
+[2024.12.06-22.02.03:297][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_ToyBlock_01.SM_Prop_ToyBlock_01
+[2024.12.06-22.02.03:298][376]LogStaticMesh: Display: Building static mesh SM_Prop_Propane_Tall_01...
+[2024.12.06-22.02.03:298][376]LogStaticMesh: Display: Building static mesh SM_Prop_PotPlant_05...
+[2024.12.06-22.02.03:299][376]LogStaticMesh: Display: Building static mesh SM_Prop_PotPlant_04...
+[2024.12.06-22.02.03:299][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_TowelRack_01.SM_Prop_TowelRack_01
+[2024.12.06-22.02.03:300][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_ToolBoard_01.SM_Prop_ToolBoard_01
+[2024.12.06-22.02.03:302][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_ToiletBrush_Stick_01.SM_Prop_ToiletBrush_Stick_01
+[2024.12.06-22.02.03:302][376]LogStaticMesh: Display: Building static mesh SM_Prop_PotPlant_03...
+[2024.12.06-22.02.03:303][376]LogStaticMesh: Display: Building static mesh SM_Prop_PotPlant_02...
+[2024.12.06-22.02.03:303][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_ToiletBrush_01.SM_Prop_ToiletBrush_01
+[2024.12.06-22.02.03:303][376]LogStaticMesh: Display: Building static mesh SM_Prop_Pot_07...
+[2024.12.06-22.02.03:304][376]LogStaticMesh: Display: Building static mesh SM_Prop_Pot_06...
+[2024.12.06-22.02.03:305][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Toilet_02_Seat.SM_Prop_Toilet_02_Seat
+[2024.12.06-22.02.03:306][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Toilet_02_Lid.SM_Prop_Toilet_02_Lid
+[2024.12.06-22.02.03:307][376]LogStaticMesh: Display: Building static mesh SM_Prop_Pot_05...
+[2024.12.06-22.02.03:308][376]LogStaticMesh: Display: Building static mesh SM_Prop_Pot_04...
+[2024.12.06-22.02.03:309][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Toilet_02.SM_Prop_Toilet_02
+[2024.12.06-22.02.03:310][376]LogStaticMesh: Display: Building static mesh SM_Prop_Pot_03...
+[2024.12.06-22.02.03:311][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Television_Remote_02.SM_Prop_Television_Remote_02
+[2024.12.06-22.02.03:312][376]LogStaticMesh: Display: Building static mesh SM_Prop_Pot_02...
+[2024.12.06-22.02.03:313][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Television_Old_01.SM_Prop_Television_Old_01
+[2024.12.06-22.02.03:314][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Television_Flat_Wall_01.SM_Prop_Television_Flat_Wall_01
+[2024.12.06-22.02.03:315][376]LogStaticMesh: Display: Building static mesh SM_Prop_Pot_01...
+[2024.12.06-22.02.03:316][376]LogStaticMesh: Display: Building static mesh SM_Prop_Pool_Float_Ring_02...
+[2024.12.06-22.02.03:316][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_StreetSign_Arrow_01.SM_Prop_StreetSign_Arrow_01
+[2024.12.06-22.02.03:317][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_StreetSign_06.SM_Prop_StreetSign_06
+[2024.12.06-22.02.03:318][376]LogStaticMesh: Display: Building static mesh SM_Prop_Pool_Float_Ring_01...
+[2024.12.06-22.02.03:318][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_StreetSign_05.SM_Prop_StreetSign_05
+[2024.12.06-22.02.03:319][376]LogStaticMesh: Display: Building static mesh SM_Prop_Pool_Float_Noodle_02...
+[2024.12.06-22.02.03:320][376]LogStaticMesh: Display: Building static mesh SM_Prop_Pool_Float_Noodle_01...
+[2024.12.06-22.02.03:321][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_StreetSign_04.SM_Prop_StreetSign_04
+[2024.12.06-22.02.03:323][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_StreetSign_03.SM_Prop_StreetSign_03
+[2024.12.06-22.02.03:324][376]LogStaticMesh: Display: Building static mesh SM_Prop_Pool_DivingBoard_01...
+[2024.12.06-22.02.03:324][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_StreetSign_01.SM_Prop_StreetSign_01
+[2024.12.06-22.02.03:326][376]LogStaticMesh: Display: Building static mesh SM_Prop_Pool_Child_Water_01...
+[2024.12.06-22.02.03:326][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_StreetSign_02.SM_Prop_StreetSign_02
+[2024.12.06-22.02.03:327][376]LogStaticMesh: Display: Building static mesh SM_Prop_Pool_Child_01...
+[2024.12.06-22.02.03:328][376]LogStaticMesh: Display: Building static mesh SM_Prop_Playground_Swing_Dirt_01...
+[2024.12.06-22.02.03:328][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Stereo_Speaker_Large_01.SM_Prop_Stereo_Speaker_Large_01
+[2024.12.06-22.02.03:329][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Stereo_Speaker_Tall_01.SM_Prop_Stereo_Speaker_Tall_01
+[2024.12.06-22.02.03:331][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Stereo_Speaker_01.SM_Prop_Stereo_Speaker_01
+[2024.12.06-22.02.03:331][376]LogStaticMesh: Display: Building static mesh SM_Prop_Plant_01...
+[2024.12.06-22.02.03:331][376]LogStaticMesh: Display: Building static mesh SM_Prop_Pillow_01...
+[2024.12.06-22.02.03:332][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Sign_01.SM_Prop_Sign_01
+[2024.12.06-22.02.03:333][376]LogStaticMesh: Display: Building static mesh SM_Prop_Piano_01...
+[2024.12.06-22.02.03:333][376]LogStaticMesh: Display: Building static mesh SM_Prop_PetBowl_02_Water...
+[2024.12.06-22.02.03:334][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Stereo_01.SM_Prop_Stereo_01
+[2024.12.06-22.02.03:335][376]LogStaticMesh: Display: Building static mesh SM_Prop_PetBowl_02_Food...
+[2024.12.06-22.02.03:335][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Sprinkler_01.SM_Prop_Sprinkler_01
+[2024.12.06-22.02.03:336][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Shelf_01_Combined.SM_Prop_Shelf_01_Combined
+[2024.12.06-22.02.03:337][376]LogStaticMesh: Display: Building static mesh SM_Prop_PetBowl_01_Food...
+[2024.12.06-22.02.03:338][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Scales_01.SM_Prop_Scales_01
+[2024.12.06-22.02.03:338][376]LogStaticMesh: Display: Building static mesh SM_Prop_PetBowl_01...
+[2024.12.06-22.02.03:340][376]LogStaticMesh: Display: Building static mesh SM_Prop_Pan_01...
+[2024.12.06-22.02.03:340][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Rug_01.SM_Prop_Rug_01
+[2024.12.06-22.02.03:342][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Propanel_02.SM_Prop_Propanel_02
+[2024.12.06-22.02.03:344][376]LogStaticMesh: Display: Building static mesh SM_Prop_OutdoorOven_01...
+[2024.12.06-22.02.03:344][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Propane_Tall_01.SM_Prop_Propane_Tall_01
+[2024.12.06-22.02.03:344][376]LogStaticMesh: Display: Building static mesh SM_Prop_Outdoor_Light_02...
+[2024.12.06-22.02.03:345][376]LogStaticMesh: Display: Building static mesh SM_Prop_Outdoor_Light_01...
+[2024.12.06-22.02.03:346][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_PotPlant_05.SM_Prop_PotPlant_05
+[2024.12.06-22.02.03:347][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_PotPlant_04.SM_Prop_PotPlant_04
+[2024.12.06-22.02.03:347][376]LogStaticMesh: Display: Building static mesh SM_Prop_Lightswitch_02...
+[2024.12.06-22.02.03:348][376]LogStaticMesh: Display: Building static mesh SM_Prop_LetterBox_03...
+[2024.12.06-22.02.03:348][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_PotPlant_03.SM_Prop_PotPlant_03
+[2024.12.06-22.02.03:350][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Pot_07.SM_Prop_Pot_07
+[2024.12.06-22.02.03:351][376]LogStaticMesh: Display: Building static mesh SM_Prop_LaundryBin_02_Clothes...
+[2024.12.06-22.02.03:351][376]LogStaticMesh: Display: Building static mesh SM_Prop_LaundryBin_02...
+[2024.12.06-22.02.03:352][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_PotPlant_02.SM_Prop_PotPlant_02
+[2024.12.06-22.02.03:353][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Pot_06.SM_Prop_Pot_06
+[2024.12.06-22.02.03:354][376]LogStaticMesh: Display: Building static mesh SM_Prop_Laundry_WasherTop_Clothes_01...
+[2024.12.06-22.02.03:355][376]LogStaticMesh: Display: Building static mesh SM_Prop_Laundry_Sink_CabinetDoor_02...
+[2024.12.06-22.02.03:356][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Pot_05.SM_Prop_Pot_05
+[2024.12.06-22.02.03:358][376]LogStaticMesh: Display: Building static mesh SM_Prop_Laundry_Sink_CabinetDoor_01...
+[2024.12.06-22.02.03:358][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Pot_04.SM_Prop_Pot_04
+[2024.12.06-22.02.03:359][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Pot_03.SM_Prop_Pot_03
+[2024.12.06-22.02.03:361][376]LogStaticMesh: Display: Building static mesh SM_Prop_Laundry_Sink_01...
+[2024.12.06-22.02.03:362][376]LogStaticMesh: Display: Building static mesh SM_Prop_LampStanding_02...
+[2024.12.06-22.02.03:362][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Pot_02.SM_Prop_Pot_02
+[2024.12.06-22.02.03:364][376]LogStaticMesh: Display: Building static mesh SM_Prop_Lamp_02...
+[2024.12.06-22.02.03:364][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Pot_01.SM_Prop_Pot_01
+[2024.12.06-22.02.03:365][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Pool_Float_Ring_02.SM_Prop_Pool_Float_Ring_02
+[2024.12.06-22.02.03:366][376]LogStaticMesh: Display: Building static mesh SM_Prop_Lamp_01...
+[2024.12.06-22.02.03:367][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Pool_Float_Ring_01.SM_Prop_Pool_Float_Ring_01
+[2024.12.06-22.02.03:368][376]LogStaticMesh: Display: Building static mesh SM_Prop_Ladder_01...
+[2024.12.06-22.02.03:368][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Pool_Float_Noodle_02.SM_Prop_Pool_Float_Noodle_02
+[2024.12.06-22.02.03:369][376]LogStaticMesh: Display: Building static mesh SM_Prop_Kitchen_Fridge_01_Door_02...
+[2024.12.06-22.02.03:369][376]LogStaticMesh: Display: Building static mesh SM_Prop_Kitchen_Fridge_01_Door_01...
+[2024.12.06-22.02.03:371][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Pool_Float_Noodle_01.SM_Prop_Pool_Float_Noodle_01
+[2024.12.06-22.02.03:373][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Pool_DivingBoard_01.SM_Prop_Pool_DivingBoard_01
+[2024.12.06-22.02.03:374][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Pool_Child_Water_01.SM_Prop_Pool_Child_Water_01
+[2024.12.06-22.02.03:374][376]LogStaticMesh: Display: Building static mesh SM_Prop_Kitchen_Fridge_01...
+[2024.12.06-22.02.03:375][376]LogStaticMesh: Display: Building static mesh SM_Prop_Jar_02...
+[2024.12.06-22.02.03:375][376]LogStaticMesh: Display: Building static mesh SM_Prop_Game_Console_03...
+[2024.12.06-22.02.03:376][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Pool_Child_01.SM_Prop_Pool_Child_01
+[2024.12.06-22.02.03:378][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Playground_Swing_Dirt_01.SM_Prop_Playground_Swing_Dirt_01
+[2024.12.06-22.02.03:378][376]LogStaticMesh: Display: Building static mesh SM_Prop_Game_Console_02...
+[2024.12.06-22.02.03:379][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Pillow_01.SM_Prop_Pillow_01
+[2024.12.06-22.02.03:380][376]LogStaticMesh: Display: Building static mesh SM_Prop_Fountain_Base_01...
+[2024.12.06-22.02.03:380][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Plant_01.SM_Prop_Plant_01
+[2024.12.06-22.02.03:382][376]LogStaticMesh: Display: Building static mesh SM_Prop_FloorMat_01...
+[2024.12.06-22.02.03:382][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_PetBowl_02_Water.SM_Prop_PetBowl_02_Water
+[2024.12.06-22.02.03:384][376]LogStaticMesh: Display: Building static mesh SM_Prop_Fountain_01...
+[2024.12.06-22.02.03:384][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Piano_01.SM_Prop_Piano_01
+[2024.12.06-22.02.03:384][376]LogStaticMesh: Display: Building static mesh SM_Prop_Fireplace_02...
+[2024.12.06-22.02.03:385][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_PetBowl_02_Food.SM_Prop_PetBowl_02_Food
+[2024.12.06-22.02.03:385][376]LogStaticMesh: Display: Building static mesh SM_Prop_ElectricalCover_01...
+[2024.12.06-22.02.03:387][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_PetBowl_01_Food.SM_Prop_PetBowl_01_Food
+[2024.12.06-22.02.03:387][376]LogStaticMesh: Display: Building static mesh SM_Prop_Dresser_03_Combined...
+[2024.12.06-22.02.03:388][376]LogStaticMesh: Display: Building static mesh SM_Prop_Dresser_02_Drawer_01...
+[2024.12.06-22.02.03:389][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_PetBowl_01.SM_Prop_PetBowl_01
+[2024.12.06-22.02.03:390][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Pan_01.SM_Prop_Pan_01
+[2024.12.06-22.02.03:392][376]LogStaticMesh: Display: Building static mesh SM_Prop_Dresser_02_Combined...
+[2024.12.06-22.02.03:392][376]LogStaticMesh: Display: Building static mesh SM_Prop_Dresser_02...
+[2024.12.06-22.02.03:392][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Outdoor_Light_02.SM_Prop_Outdoor_Light_02
+[2024.12.06-22.02.03:394][376]LogStaticMesh: Display: Building static mesh SM_Prop_Dresser_01_Combined...
+[2024.12.06-22.02.03:395][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Outdoor_Light_01.SM_Prop_Outdoor_Light_01
+[2024.12.06-22.02.03:396][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_OutdoorOven_01.SM_Prop_OutdoorOven_01
+[2024.12.06-22.02.03:396][376]LogStaticMesh: Display: Building static mesh SM_Prop_Drawers_01...
+[2024.12.06-22.02.03:397][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Lightswitch_02.SM_Prop_Lightswitch_02
+[2024.12.06-22.02.03:398][376]LogStaticMesh: Display: Building static mesh SM_Prop_DiningTable_01...
+[2024.12.06-22.02.03:399][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_LetterBox_03.SM_Prop_LetterBox_03
+[2024.12.06-22.02.03:399][376]LogStaticMesh: Display: Building static mesh SM_Prop_DiningChair_01...
+[2024.12.06-22.02.03:401][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_LaundryBin_02.SM_Prop_LaundryBin_02
+[2024.12.06-22.02.03:401][376]LogStaticMesh: Display: Building static mesh SM_Prop_Desk_02...
+[2024.12.06-22.02.03:402][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_LaundryBin_02_Clothes.SM_Prop_LaundryBin_02_Clothes
+[2024.12.06-22.02.03:403][376]LogStaticMesh: Display: Building static mesh SM_Prop_Deckchair_04...
+[2024.12.06-22.02.03:404][376]LogStaticMesh: Display: Building static mesh SM_Prop_Cushion_03...
+[2024.12.06-22.02.03:404][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Laundry_WasherTop_Clothes_01.SM_Prop_Laundry_WasherTop_Clothes_01
+[2024.12.06-22.02.03:406][376]LogStaticMesh: Display: Building static mesh SM_Prop_Cushion_02...
+[2024.12.06-22.02.03:406][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Laundry_Sink_CabinetDoor_02.SM_Prop_Laundry_Sink_CabinetDoor_02
+[2024.12.06-22.02.03:407][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Laundry_Sink_CabinetDoor_01.SM_Prop_Laundry_Sink_CabinetDoor_01
+[2024.12.06-22.02.03:408][376]LogStaticMesh: Display: Building static mesh SM_Prop_Couch_07...
+[2024.12.06-22.02.03:409][376]LogStaticMesh: Display: Building static mesh SM_Prop_Couch_05...
+[2024.12.06-22.02.03:410][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_LampStanding_02.SM_Prop_LampStanding_02
+[2024.12.06-22.02.03:412][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Laundry_Sink_01.SM_Prop_Laundry_Sink_01
+[2024.12.06-22.02.03:412][376]LogStaticMesh: Display: Building static mesh SM_Prop_Couch_03...
+[2024.12.06-22.02.03:413][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Lamp_02.SM_Prop_Lamp_02
+[2024.12.06-22.02.03:414][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Lamp_01.SM_Prop_Lamp_01
+[2024.12.06-22.02.03:414][376]LogStaticMesh: Display: Building static mesh SM_Prop_Couch_02...
+[2024.12.06-22.02.03:415][376]LogStaticMesh: Display: Building static mesh SM_Prop_CookingPot_Lid_01...
+[2024.12.06-22.02.03:416][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Ladder_01.SM_Prop_Ladder_01
+[2024.12.06-22.02.03:416][376]LogStaticMesh: Display: Building static mesh SM_Prop_CookingPot_01...
+[2024.12.06-22.02.03:417][376]LogStaticMesh: Display: Building static mesh SM_Prop_Clock_02...
+[2024.12.06-22.02.03:418][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Kitchen_Fridge_01_Door_02.SM_Prop_Kitchen_Fridge_01_Door_02
+[2024.12.06-22.02.03:419][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Kitchen_Fridge_01_Door_01.SM_Prop_Kitchen_Fridge_01_Door_01
+[2024.12.06-22.02.03:420][376]LogStaticMesh: Display: Building static mesh SM_Prop_Chair_03...
+[2024.12.06-22.02.03:420][376]LogStaticMesh: Display: Building static mesh SM_Prop_CeilingLight_03...
+[2024.12.06-22.02.03:421][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Jar_02.SM_Prop_Jar_02
+[2024.12.06-22.02.03:423][376]LogStaticMesh: Display: Building static mesh SM_Prop_CeilingLight_02...
+[2024.12.06-22.02.03:424][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Game_Console_03.SM_Prop_Game_Console_03
+[2024.12.06-22.02.03:425][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Kitchen_Fridge_01.SM_Prop_Kitchen_Fridge_01
+[2024.12.06-22.02.03:425][376]LogStaticMesh: Display: Building static mesh SM_Prop_CeilingLight_01...
+[2024.12.06-22.02.03:426][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Game_Console_02.SM_Prop_Game_Console_02
+[2024.12.06-22.02.03:426][376]LogStaticMesh: Display: Building static mesh SM_Prop_CardboardBox_02...
+[2024.12.06-22.02.03:427][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Fountain_Base_01.SM_Prop_Fountain_Base_01
+[2024.12.06-22.02.03:427][376]LogStaticMesh: Display: Building static mesh SM_Prop_Candles_03...
+[2024.12.06-22.02.03:429][376]LogStaticMesh: Display: Building static mesh SM_Prop_Candles_02...
+[2024.12.06-22.02.03:429][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_FloorMat_01.SM_Prop_FloorMat_01
+[2024.12.06-22.02.03:430][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Fireplace_02.SM_Prop_Fireplace_02
+[2024.12.06-22.02.03:431][376]LogStaticMesh: Display: Building static mesh SM_Prop_Candles_01...
+[2024.12.06-22.02.03:432][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_ElectricalCover_01.SM_Prop_ElectricalCover_01
+[2024.12.06-22.02.03:433][376]LogStaticMesh: Display: Building static mesh SM_Prop_Cake_Slice_02...
+[2024.12.06-22.02.03:433][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Fountain_01.SM_Prop_Fountain_01
+[2024.12.06-22.02.03:434][376]LogStaticMesh: Display: Building static mesh SM_Prop_Cake_Slice_01...
+[2024.12.06-22.02.03:435][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Dresser_02_Drawer_01.SM_Prop_Dresser_02_Drawer_01
+[2024.12.06-22.02.03:436][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Dresser_03_Combined.SM_Prop_Dresser_03_Combined
+[2024.12.06-22.02.03:436][376]LogStaticMesh: Display: Building static mesh SM_Prop_Cake_02...
+[2024.12.06-22.02.03:437][376]LogStaticMesh: Display: Building static mesh SM_Prop_Cake_01...
+[2024.12.06-22.02.03:439][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Dresser_02_Combined.SM_Prop_Dresser_02_Combined
+[2024.12.06-22.02.03:439][376]LogStaticMesh: Display: Building static mesh SM_Prop_Brazier_01...
+[2024.12.06-22.02.03:440][376]LogStaticMesh: Display: Building static mesh SM_Prop_Bookshelf_02...
+[2024.12.06-22.02.03:441][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Dresser_02.SM_Prop_Dresser_02
+[2024.12.06-22.02.03:442][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Dresser_01_Combined.SM_Prop_Dresser_01_Combined
+[2024.12.06-22.02.03:442][376]LogStaticMesh: Display: Building static mesh SM_Prop_Book_Group_09...
+[2024.12.06-22.02.03:443][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Drawers_01.SM_Prop_Drawers_01
+[2024.12.06-22.02.03:443][376]LogStaticMesh: Display: Building static mesh SM_Prop_Book_03...
+[2024.12.06-22.02.03:445][376]LogStaticMesh: Display: Building static mesh SM_Prop_Book_02...
+[2024.12.06-22.02.03:445][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_DiningTable_01.SM_Prop_DiningTable_01
+[2024.12.06-22.02.03:446][376]LogStaticMesh: Display: Building static mesh SM_Prop_Book_01...
+[2024.12.06-22.02.03:447][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_DiningChair_01.SM_Prop_DiningChair_01
+[2024.12.06-22.02.03:448][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Desk_02.SM_Prop_Desk_02
+[2024.12.06-22.02.03:449][376]LogStaticMesh: Display: Building static mesh SM_Prop_BirdBath_01...
+[2024.12.06-22.02.03:450][376]LogStaticMesh: Display: Building static mesh SM_Prop_BedsideTable_Drawer_01...
+[2024.12.06-22.02.03:451][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Cushion_03.SM_Prop_Cushion_03
+[2024.12.06-22.02.03:452][376]LogStaticMesh: Display: Building static mesh SM_Prop_BedsideTable_01...
+[2024.12.06-22.02.03:453][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Deckchair_04.SM_Prop_Deckchair_04
+[2024.12.06-22.02.03:454][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Cushion_02.SM_Prop_Cushion_02
+[2024.12.06-22.02.03:455][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Couch_07.SM_Prop_Couch_07
+[2024.12.06-22.02.03:456][376]LogStaticMesh: Display: Building static mesh SM_Prop_Bed_Single_02...
+[2024.12.06-22.02.03:458][376]LogStaticMesh: Display: Building static mesh SM_Prop_Bed_Single_01...
+[2024.12.06-22.02.03:459][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Couch_05.SM_Prop_Couch_05
+[2024.12.06-22.02.03:460][376]LogStaticMesh: Display: Building static mesh SM_Prop_Bed_Double_03...
+[2024.12.06-22.02.03:460][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Couch_03.SM_Prop_Couch_03
+[2024.12.06-22.02.03:461][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Couch_02.SM_Prop_Couch_02
+[2024.12.06-22.02.03:461][376]LogStaticMesh: Display: Building static mesh SM_Prop_BathroomRug_02...
+[2024.12.06-22.02.03:463][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_CookingPot_Lid_01.SM_Prop_CookingPot_Lid_01
+[2024.12.06-22.02.03:463][376]LogStaticMesh: Display: Building static mesh SM_Prop_BathroomRug_01...
+[2024.12.06-22.02.03:463][376]LogStaticMesh: Display: Building static mesh SM_Prop_Bed_Double_02...
+[2024.12.06-22.02.03:465][376]LogStaticMesh: Display: Building static mesh SM_Prop_Bath_02_Water...
+[2024.12.06-22.02.03:465][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_CookingPot_01.SM_Prop_CookingPot_01
+[2024.12.06-22.02.03:466][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Clock_02.SM_Prop_Clock_02
+[2024.12.06-22.02.03:468][376]LogStaticMesh: Display: Building static mesh SM_Prop_Barrel_01...
+[2024.12.06-22.02.03:469][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_CeilingLight_03.SM_Prop_CeilingLight_03
+[2024.12.06-22.02.03:469][376]LogStaticMesh: Display: Building static mesh SM_Prop_Bath_02...
+[2024.12.06-22.02.03:470][376]LogStaticMesh: Display: Building static mesh SM_Prop_Art_Standing_02...
+[2024.12.06-22.02.03:471][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Chair_03.SM_Prop_Chair_03
+[2024.12.06-22.02.03:472][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_CeilingLight_02.SM_Prop_CeilingLight_02
+[2024.12.06-22.02.03:472][376]LogStaticMesh: Display: Building static mesh SM_Prop_Art_09...
+[2024.12.06-22.02.03:473][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_CeilingLight_01.SM_Prop_CeilingLight_01
+[2024.12.06-22.02.03:474][376]LogStaticMesh: Display: Building static mesh SM_Prop_Art_07...
+[2024.12.06-22.02.03:475][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_CardboardBox_02.SM_Prop_CardboardBox_02
+[2024.12.06-22.02.03:476][376]LogStaticMesh: Display: Building static mesh SM_Prop_Art_06...
+[2024.12.06-22.02.03:476][376]LogStaticMesh: Display: Building static mesh SM_Prop_Art_01...
+[2024.12.06-22.02.03:477][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Candles_03.SM_Prop_Candles_03
+[2024.12.06-22.02.03:478][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Candles_02.SM_Prop_Candles_02
+[2024.12.06-22.02.03:479][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Candles_01.SM_Prop_Candles_01
+[2024.12.06-22.02.03:480][376]LogStaticMesh: Display: Building static mesh SM_Item_Wirecutter_02_Handle...
+[2024.12.06-22.02.03:480][376]LogStaticMesh: Display: Building static mesh SM_Prop_AirVent_03...
+[2024.12.06-22.02.03:481][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Cake_Slice_02.SM_Prop_Cake_Slice_02
+[2024.12.06-22.02.03:481][376]LogStaticMesh: Display: Building static mesh SM_Item_Wirecutter_02...
+[2024.12.06-22.02.03:483][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Cake_Slice_01.SM_Prop_Cake_Slice_01
+[2024.12.06-22.02.03:483][376]LogStaticMesh: Display: Building static mesh SM_Item_Wirecutter_01...
+[2024.12.06-22.02.03:485][376]LogStaticMesh: Display: Building static mesh SM_Item_WateringCan_01...
+[2024.12.06-22.02.03:486][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Cake_02.SM_Prop_Cake_02
+[2024.12.06-22.02.03:487][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Cake_01.SM_Prop_Cake_01
+[2024.12.06-22.02.03:488][376]LogStaticMesh: Display: Building static mesh SM_Item_Toothpaste_01...
+[2024.12.06-22.02.03:489][376]LogStaticMesh: Display: Building static mesh SM_Item_Toothbrush_02...
+[2024.12.06-22.02.03:489][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Bookshelf_02.SM_Prop_Bookshelf_02
+[2024.12.06-22.02.03:491][376]LogStaticMesh: Display: Building static mesh SM_Item_Toothbrush_01...
+[2024.12.06-22.02.03:491][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Brazier_01.SM_Prop_Brazier_01
+[2024.12.06-22.02.03:492][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Book_Group_09.SM_Prop_Book_Group_09
+[2024.12.06-22.02.03:493][376]LogStaticMesh: Display: Building static mesh SM_Item_Tomato_01...
+[2024.12.06-22.02.03:493][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Book_03.SM_Prop_Book_03
+[2024.12.06-22.02.03:494][376]LogStaticMesh: Display: Building static mesh SM_Item_ToiletRoll_04...
+[2024.12.06-22.02.03:495][376]LogStaticMesh: Display: Building static mesh SM_Item_ToiletRoll_02...
+[2024.12.06-22.02.03:496][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Book_02.SM_Prop_Book_02
+[2024.12.06-22.02.03:497][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Book_01.SM_Prop_Book_01
+[2024.12.06-22.02.03:498][376]LogStaticMesh: Display: Building static mesh SM_Item_ToiletRoll_01...
+[2024.12.06-22.02.03:499][376]LogStaticMesh: Display: Building static mesh SM_Item_Spanner_02...
+[2024.12.06-22.02.03:500][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_BirdBath_01.SM_Prop_BirdBath_01
+[2024.12.06-22.02.03:502][376]LogStaticMesh: Display: Building static mesh SM_Item_Spanner_01...
+[2024.12.06-22.02.03:502][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_BedsideTable_Drawer_01.SM_Prop_BedsideTable_Drawer_01
+[2024.12.06-22.02.03:503][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_BedsideTable_01.SM_Prop_BedsideTable_01
+[2024.12.06-22.02.03:504][376]LogStaticMesh: Display: Building static mesh SM_Item_Soap_01...
+[2024.12.06-22.02.03:505][376]LogStaticMesh: Display: Building static mesh SM_Item_Screwdriver_02...
+[2024.12.06-22.02.03:506][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Bed_Single_02.SM_Prop_Bed_Single_02
+[2024.12.06-22.02.03:508][376]LogStaticMesh: Display: Building static mesh SM_Item_Screwdriver_01...
+[2024.12.06-22.02.03:508][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Bed_Single_01.SM_Prop_Bed_Single_01
+[2024.12.06-22.02.03:510][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_BathroomRug_02.SM_Prop_BathroomRug_02
+[2024.12.06-22.02.03:510][376]LogStaticMesh: Display: Building static mesh SM_Item_Scrapper_01...
+[2024.12.06-22.02.03:511][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Bed_Double_03.SM_Prop_Bed_Double_03
+[2024.12.06-22.02.03:512][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_BathroomRug_01.SM_Prop_BathroomRug_01
+[2024.12.06-22.02.03:512][376]LogStaticMesh: Display: Building static mesh SM_Item_Saw_01...
+[2024.12.06-22.02.03:514][376]LogStaticMesh: Display: Building static mesh SM_Item_Pumpkin_01...
+[2024.12.06-22.02.03:514][376]LogStaticMesh: Display: Building static mesh SM_Item_Onion_01...
+[2024.12.06-22.02.03:514][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Bath_02_Water.SM_Prop_Bath_02_Water
+[2024.12.06-22.02.03:515][376]LogStaticMesh: Display: Building static mesh SM_Item_Nails_01...
+[2024.12.06-22.02.03:515][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Bed_Double_02.SM_Prop_Bed_Double_02
+[2024.12.06-22.02.03:517][376]LogStaticMesh: Display: Building static mesh SM_Item_Mug_01...
+[2024.12.06-22.02.03:517][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Barrel_01.SM_Prop_Barrel_01
+[2024.12.06-22.02.03:519][376]LogStaticMesh: Display: Building static mesh SM_Item_Mallet_02...
+[2024.12.06-22.02.03:520][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Art_Standing_02.SM_Prop_Art_Standing_02
+[2024.12.06-22.02.03:521][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Bath_02.SM_Prop_Bath_02
+[2024.12.06-22.02.03:522][376]LogStaticMesh: Display: Building static mesh SM_Item_Mallet_01...
+[2024.12.06-22.02.03:522][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Art_09.SM_Prop_Art_09
+[2024.12.06-22.02.03:523][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Art_07.SM_Prop_Art_07
+[2024.12.06-22.02.03:523][376]LogStaticMesh: Display: Building static mesh SM_Item_JuiceJug_01...
+[2024.12.06-22.02.03:524][376]LogStaticMesh: Display: Building static mesh SM_Item_Hammer_03...
+[2024.12.06-22.02.03:524][376]LogStaticMesh: Display: Building static mesh SM_Item_Hammer_02...
+[2024.12.06-22.02.03:525][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Art_01.SM_Prop_Art_01
+[2024.12.06-22.02.03:526][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_Art_06.SM_Prop_Art_06
+[2024.12.06-22.02.03:527][376]LogStaticMesh: Display: Building static mesh SM_Item_Hacksaw_02...
+[2024.12.06-22.02.03:528][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Wirecutter_02_Handle.SM_Item_Wirecutter_02_Handle
+[2024.12.06-22.02.03:529][376]LogStaticMesh: Display: Building static mesh SM_Item_Hacksaw_01...
+[2024.12.06-22.02.03:529][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Wirecutter_02.SM_Item_Wirecutter_02
+[2024.12.06-22.02.03:529][376]LogStaticMesh: Display: Building static mesh SM_Item_GlassCup_02...
+[2024.12.06-22.02.03:530][376]LogStaticMesh: Display: Building static mesh SM_Item_GlassCup_01...
+[2024.12.06-22.02.03:531][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Props/SM_Prop_AirVent_03.SM_Prop_AirVent_03
+[2024.12.06-22.02.03:532][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Wirecutter_01.SM_Item_Wirecutter_01
+[2024.12.06-22.02.03:533][376]LogStaticMesh: Display: Building static mesh SM_Item_Garden_Trowel_02...
+[2024.12.06-22.02.03:534][376]LogStaticMesh: Display: Building static mesh SM_Item_Garden_Trowel_01...
+[2024.12.06-22.02.03:535][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_WateringCan_01.SM_Item_WateringCan_01
+[2024.12.06-22.02.03:537][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Toothpaste_01.SM_Item_Toothpaste_01
+[2024.12.06-22.02.03:537][376]LogStaticMesh: Display: Building static mesh SM_Item_Garden_Fork_01...
+[2024.12.06-22.02.03:538][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Toothbrush_02.SM_Item_Toothbrush_02
+[2024.12.06-22.02.03:538][376]LogStaticMesh: Display: Building static mesh SM_Item_Drink_04...
+[2024.12.06-22.02.03:539][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Toothbrush_01.SM_Item_Toothbrush_01
+[2024.12.06-22.02.03:539][376]LogStaticMesh: Display: Building static mesh SM_Item_Drink_03...
+[2024.12.06-22.02.03:540][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Tomato_01.SM_Item_Tomato_01
+[2024.12.06-22.02.03:540][376]LogStaticMesh: Display: Building static mesh SM_Item_Drink_02...
+[2024.12.06-22.02.03:541][376]LogStaticMesh: Display: Building static mesh SM_Item_Drink_01...
+[2024.12.06-22.02.03:542][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_ToiletRoll_04.SM_Item_ToiletRoll_04
+[2024.12.06-22.02.03:543][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_ToiletRoll_02.SM_Item_ToiletRoll_02
+[2024.12.06-22.02.03:544][376]LogStaticMesh: Display: Building static mesh SM_Item_Drill_01...
+[2024.12.06-22.02.03:544][376]LogStaticMesh: Display: Building static mesh SM_Item_Cutlery_Spoon_01...
+[2024.12.06-22.02.03:546][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Spanner_02.SM_Item_Spanner_02
+[2024.12.06-22.02.03:547][376]LogStaticMesh: Display: Building static mesh SM_Item_Cutlery_Fork_01...
+[2024.12.06-22.02.03:548][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_ToiletRoll_01.SM_Item_ToiletRoll_01
+[2024.12.06-22.02.03:549][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Spanner_01.SM_Item_Spanner_01
+[2024.12.06-22.02.03:549][376]LogStaticMesh: Display: Building static mesh SM_Item_Cup_01...
+[2024.12.06-22.02.03:550][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Soap_01.SM_Item_Soap_01
+[2024.12.06-22.02.03:551][376]LogStaticMesh: Display: Building static mesh SM_Item_Corn_01...
+[2024.12.06-22.02.03:552][376]LogStaticMesh: Display: Building static mesh SM_Item_Chisel_01...
+[2024.12.06-22.02.03:553][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Screwdriver_02.SM_Item_Screwdriver_02
+[2024.12.06-22.02.03:555][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Screwdriver_01.SM_Item_Screwdriver_01
+[2024.12.06-22.02.03:555][376]LogStaticMesh: Display: Building static mesh SM_Item_Can_02...
+[2024.12.06-22.02.03:556][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Scrapper_01.SM_Item_Scrapper_01
+[2024.12.06-22.02.03:557][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Saw_01.SM_Item_Saw_01
+[2024.12.06-22.02.03:559][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Onion_01.SM_Item_Onion_01
+[2024.12.06-22.02.03:560][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Nails_01.SM_Item_Nails_01
+[2024.12.06-22.02.03:562][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Pumpkin_01.SM_Item_Pumpkin_01
+[2024.12.06-22.02.03:565][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Mug_01.SM_Item_Mug_01
+[2024.12.06-22.02.03:566][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Mallet_02.SM_Item_Mallet_02
+[2024.12.06-22.02.03:568][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Mallet_01.SM_Item_Mallet_01
+[2024.12.06-22.02.03:569][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Hammer_03.SM_Item_Hammer_03
+[2024.12.06-22.02.03:571][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_JuiceJug_01.SM_Item_JuiceJug_01
+[2024.12.06-22.02.03:572][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Hammer_02.SM_Item_Hammer_02
+[2024.12.06-22.02.03:573][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Hacksaw_02.SM_Item_Hacksaw_02
+[2024.12.06-22.02.03:574][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Hacksaw_01.SM_Item_Hacksaw_01
+[2024.12.06-22.02.03:577][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_GlassCup_02.SM_Item_GlassCup_02
+[2024.12.06-22.02.03:578][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_GlassCup_01.SM_Item_GlassCup_01
+[2024.12.06-22.02.03:579][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Garden_Trowel_02.SM_Item_Garden_Trowel_02
+[2024.12.06-22.02.03:583][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Garden_Trowel_01.SM_Item_Garden_Trowel_01
+[2024.12.06-22.02.03:584][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Garden_Fork_01.SM_Item_Garden_Fork_01
+[2024.12.06-22.02.03:585][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Drink_04.SM_Item_Drink_04
+[2024.12.06-22.02.03:586][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Drink_03.SM_Item_Drink_03
+[2024.12.06-22.02.03:588][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Drink_02.SM_Item_Drink_02
+[2024.12.06-22.02.03:590][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Drink_01.SM_Item_Drink_01
+[2024.12.06-22.02.03:592][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Cutlery_Spoon_01.SM_Item_Cutlery_Spoon_01
+[2024.12.06-22.02.03:594][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Drill_01.SM_Item_Drill_01
+[2024.12.06-22.02.03:596][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Cutlery_Fork_01.SM_Item_Cutlery_Fork_01
+[2024.12.06-22.02.03:597][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Cup_01.SM_Item_Cup_01
+[2024.12.06-22.02.03:598][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Corn_01.SM_Item_Corn_01
+[2024.12.06-22.02.03:602][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Chisel_01.SM_Item_Chisel_01
+[2024.12.06-22.02.03:603][376]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Items/SM_Item_Can_02.SM_Item_Can_02
+[2024.12.06-22.02.05:116][376]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.12.06-22.02.05:146][376]LogMeshUtilities: Finished distance field build in 1.0s - 112x21x42 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 88% occupied, 468 triangles, SM_Prop_WashingLine_01
+[2024.12.06-22.02.05:156][376]LogMeshUtilities: Finished distance field build in 1.0s - 98x28x28 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 66 triangles, SM_Generic_Cloud_04
+[2024.12.06-22.02.05:449][376]LogMeshUtilities: Finished distance field build in 1.2s - 112x112x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 98% occupied, 66 triangles, SM_Generic_Ground_01
+[2024.12.06-22.02.05:641][376]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 96% occupied, 146 triangles, SM_Generic_Ground_02
+[2024.12.06-22.02.05:726][376]LogMeshUtilities: Finished distance field build in 1.0s - 98x98x7 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 20 triangles, SM_Env_Driveway_PathRight_01
+[2024.12.06-22.02.05:739][376]LogMeshUtilities: Finished distance field build in 2.1s - 49x49x112 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 76% occupied, 45 triangles, SM_Bld_House_Interior_Stairs_02
+[2024.12.06-22.02.05:788][376]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 185 triangles, SM_Generic_Ground_Flat_01
+[2024.12.06-22.02.06:296][376]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x49 sparse distance field, 1.0Mb total, 0.0Mb always loaded, 69% occupied, 253 triangles, SM_Generic_Ground_04
+[2024.12.06-22.02.06:600][376]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 55% occupied, 1065 triangles, SM_Bld_House_Preset_05
+[2024.12.06-22.02.06:618][376]LogMeshUtilities: Finished distance field build in 2.4s - 126x126x98 sparse distance field, 1.7Mb total, 0.0Mb always loaded, 62% occupied, 90 triangles, SM_Generic_Mountains_Soft_01
+[2024.12.06-22.02.06:743][376]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-22.02.06:744][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.02.06:755][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.12.06-22.02.06:762][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.06-22.02.06:789][376]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview'.
+[2024.12.06-22.02.06:789][376]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-22.02.06:790][376]LogAIModule: Creating AISystem for world Overview
+[2024.12.06-22.02.06:884][376]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-22.02.06:895][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.06-22.02.06:904][376]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-22.02.06:904][376]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.106ms to complete.
+[2024.12.06-22.02.06:904][376]LogFileHelpers: Loading map 'Overview' took 3.789
+[2024.12.06-22.02.06:910][376]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000922s (1.795974s overbudget)
+[2024.12.06-22.02.39:121][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.12.06-22.02.39:303][ 46]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonTown/Maps/Demonstration.Demonstration
+[2024.12.06-22.02.39:303][ 46]Cmd: MAP LOAD FILE="D:/GitHub/PsyWorld/psy/Content/PolygonTown/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.06-22.02.39:303][ 46]LightingResults: New page: Lighting Build
+[2024.12.06-22.02.39:303][ 46]LoadErrors: New page: Loading map: Demonstration.umap
+[2024.12.06-22.02.39:348][ 46]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-22.02.39:348][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.02.39:348][ 46]MapCheck: New page: Map Check
+[2024.12.06-22.02.39:348][ 46]LightingResults: New page: Lighting Build
+[2024.12.06-22.02.39:374][ 46]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-22.02.39:381][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.12.06-22.02.39:386][ 46]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-22.02.39:390][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.02.39:411][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.12.06-22.02.39:417][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.12.06-22.02.39:520][ 46]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demonstration'.
+[2024.12.06-22.02.39:520][ 46]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-22.02.39:520][ 46]LogAIModule: Creating AISystem for world Demonstration
+[2024.12.06-22.02.39:621][ 46]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-22.02.39:652][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.06-22.02.39:661][ 46]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-22.02.39:661][ 46]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.247ms to complete.
+[2024.12.06-22.02.39:661][ 46]LogFileHelpers: Loading map 'Demonstration' took 0.358
+[2024.12.06-22.02.46:941][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.12.06-22.02.46:972][892]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scene/Level1.Level1
+[2024.12.06-22.02.46:972][892]Cmd: MAP LOAD FILE="D:/GitHub/PsyWorld/psy/Content/Scene/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.06-22.02.46:972][892]LightingResults: New page: Lighting Build
+[2024.12.06-22.02.46:973][892]LoadErrors: New page: Loading map: Level1.umap
+[2024.12.06-22.02.47:028][892]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-22.02.47:029][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.02.47:029][892]MapCheck: New page: Map Check
+[2024.12.06-22.02.47:030][892]LightingResults: New page: Lighting Build
+[2024.12.06-22.02.47:038][892]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-22.02.47:060][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.12.06-22.02.47:066][892]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-22.02.47:066][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.02.47:073][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.12.06-22.02.47:080][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.12.06-22.02.47:084][892]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2024.12.06-22.02.47:084][892]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-22.02.47:085][892]LogAIModule: Creating AISystem for world Level1
+[2024.12.06-22.02.47:085][892]LogWorldPartition: ULevel::OnLevelLoaded(Level1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.12.06-22.02.47:085][892]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.06-22.02.47:085][892]LogWorldPartition: UWorldPartition::Initialize(Asset=Level1, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.12.06-22.02.47:105][892]LogContentBundle: [Container: Level1] Creating new contrainer.
+[2024.12.06-22.02.47:105][892]LogWorldPartition: Display: WorldPartition initialize took 20 ms (total: 573 ms)
+[2024.12.06-22.02.47:137][892]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-22.02.47:145][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.06-22.02.47:154][892]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-22.02.47:154][892]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.179ms to complete.
+[2024.12.06-22.02.47:154][892]LogFileHelpers: Loading map 'Level1' took 0.182
+[2024.12.06-22.02.47:174][892]LogViewport: Scene viewport resized to 2038x629, mode Windowed.
+[2024.12.06-22.02.49:587][166]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2024.12.06-22.02.57:036][ 33]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.12.06-22.02.59:204][277]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.06-22.02.59:876][333]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Scene/Level1.Level1:PersistentLevel.Level1
+[2024.12.06-22.02.59:885][333]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-22.03.01:306][333]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.12.06-22.03.02:835][492]LogSlate: Window 'Level1' being destroyed
+[2024.12.06-22.03.02:840][492]LogSlate: Window 'Level1' being destroyed
+[2024.12.06-22.03.02:842][492]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-22.03.02:842][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.03.14:565][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.06-22.03.14:742][839]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonTown/Maps/Demonstration.Demonstration
+[2024.12.06-22.03.14:743][839]Cmd: MAP LOAD FILE="D:/GitHub/PsyWorld/psy/Content/PolygonTown/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.06-22.03.14:743][839]LightingResults: New page: Lighting Build
+[2024.12.06-22.03.14:743][839]LoadErrors: New page: Loading map: Demonstration.umap
+[2024.12.06-22.03.14:779][839]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-22.03.14:779][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.03.14:781][839]LogContentBundle: [Container: Level1] Deleting container.
+[2024.12.06-22.03.14:781][839]MapCheck: New page: Map Check
+[2024.12.06-22.03.14:781][839]LightingResults: New page: Lighting Build
+[2024.12.06-22.03.14:817][839]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-22.03.14:819][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.06-22.03.14:823][839]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-22.03.14:827][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.03.14:858][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.06-22.03.14:874][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.06-22.03.14:975][839]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demonstration'.
+[2024.12.06-22.03.14:975][839]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-22.03.14:976][839]LogAIModule: Creating AISystem for world Demonstration
+[2024.12.06-22.03.15:079][839]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-22.03.15:120][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.06-22.03.15:128][839]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-22.03.15:128][839]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.266ms to complete.
+[2024.12.06-22.03.15:128][839]LogFileHelpers: Loading map 'Demonstration' took 0.386
+[2024.12.06-22.03.18:014][148]LogContentBrowser: Deferred new asset file creation: Demonstration1
+[2024.12.06-22.03.18:071][148]LogContentBrowser: Creating deferred item: Demonstration1
+[2024.12.06-22.03.18:077][149]LogContentBrowser: Renaming the item being created (Deferred Item: Demonstration1).
+[2024.12.06-22.03.22:361][653]LogContentBrowser: Attempting asset rename: Demonstration1 -> Level
+[2024.12.06-22.03.22:638][653]LogContentBrowser: End creating deferred item Demonstration1
+[2024.12.06-22.03.27:908][262]LogObjectTools: Deleting 1 worlds: /Game/Scene/Level1.Level1
+[2024.12.06-22.03.27:908][262]LogObjectTools: Currently 6 active worlds: /Game/PolygonTown/Maps/Demonstration.Demonstration, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_4, /Engine/Transient.World_5
+[2024.12.06-22.03.27:925][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.06-22.03.30:805][262]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.06-22.03.30:823][262]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/Scene/Level1.Level1
+	Asset Type: World
+	Asset Name: /Game/__ExternalActors__/Scene/Level1/5/TB/BI1T9I2QPZBP3SBT50Z47V
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Scene/Level1/2/Y9/1QR6DJNI6FIJQHWCOD1TND
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Scene/Level1/4/X1/J2MJI2625YAZ8V505QR04S
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Scene/Level1/5/89/Y5GNMB5X7N2BZMIB7L5JSS
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Scene/Level1/7/BY/01UPW0CF36IZ8XXG5WYGC4
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Scene/Level1/9/TH/1QQE6JPW8RKNCC7Y2EJ82V
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Scene/Level1/D/DN/OOQ0RRHUOFUJZ3R3RQO6NT
+	Asset Type: Package
+[2024.12.06-22.03.31:078][262]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-22.03.31:078][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.03.31:269][262]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2024.12.06-22.03.33:132][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.06-22.03.33:149][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.06-22.03.33:162][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.12.06-22.03.33:194][264]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Scene/Level1 does not exist, will not scan.
+[2024.12.06-22.03.35:790][552]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/PolygonTown/Maps/Level does not exist, will not scan.
+[2024.12.06-22.03.38:306][837]LogContentBrowser: Attempting asset rename: Level -> Level1
+[2024.12.06-22.03.38:331][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-22.03.38:365][837]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-22.03.38:435][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PolygonTown/Maps/Level1" FILE="D:/GitHub/PsyWorld/psy/Content/PolygonTown/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-22.03.38:477][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.06-22.03.38:486][837]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.008405 seconds
+[2024.12.06-22.03.38:583][837]LogSerialization: UsePackageTrailer: 'true'
+[2024.12.06-22.03.38:779][837]LogSavePackage: Moving output files for package: /Game/PolygonTown/Maps/Level1
+[2024.12.06-22.03.38:779][837]LogSavePackage: Moving 'D:/GitHub/PsyWorld/psy/Saved/Level17C99957442DB73E7A97161A03F75E9FD.tmp' to 'D:/GitHub/PsyWorld/psy/Content/PolygonTown/Maps/Level1.umap'
+[2024.12.06-22.03.38:846][837]LogFileHelpers: Saving map 'Level1' took 0.485
+[2024.12.06-22.03.38:852][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 521 ms
+[2024.12.06-22.03.39:012][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.06-22.03.39:029][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.06-22.03.39:045][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.06-22.03.39:049][837]AssetCheck: New page: Asset Save: Level1
+[2024.12.06-22.03.39:050][837]LogContentValidation: Display: Validating /Script/Engine.World /Game/PolygonTown/Maps/Level1.Level1
+[2024.12.06-22.03.41:402][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-22.03.41:435][ 86]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-22.03.41:502][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene/Level1" FILE="D:/GitHub/PsyWorld/psy/Content/Scene/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.06-22.03.41:568][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.06-22.03.41:860][ 86]LogSavePackage: Moving output files for package: /Game/Scene/Level1
+[2024.12.06-22.03.41:860][ 86]LogSavePackage: Moving 'D:/GitHub/PsyWorld/psy/Saved/Level1ED6D3B3F4AAC07A414F875A10D090006.tmp' to 'D:/GitHub/PsyWorld/psy/Content/Scene/Level1.umap'
+[2024.12.06-22.03.41:927][ 86]LogFileHelpers: Saving map 'Level1' took 0.497
+[2024.12.06-22.03.41:932][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 529 ms (total: 1.05 sec)
+[2024.12.06-22.03.42:100][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.06-22.03.42:120][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.06-22.03.42:134][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.12.06-22.03.42:147][ 86]AssetCheck: New page: Asset Save: Level1
+[2024.12.06-22.03.42:147][ 86]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scene/Level1.Level1
+[2024.12.06-22.03.43:799][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.12.06-22.03.43:804][256]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scene/Level1.Level1
+[2024.12.06-22.03.43:804][256]Cmd: MAP LOAD FILE="D:/GitHub/PsyWorld/psy/Content/Scene/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.06-22.03.43:804][256]LightingResults: New page: Lighting Build
+[2024.12.06-22.03.43:804][256]LoadErrors: New page: Loading map: Level1.umap
+[2024.12.06-22.03.43:858][256]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-22.03.43:859][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.03.43:859][256]MapCheck: New page: Map Check
+[2024.12.06-22.03.43:859][256]LightingResults: New page: Lighting Build
+[2024.12.06-22.03.43:879][256]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-22.03.43:900][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.06-22.03.43:907][256]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-22.03.43:911][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.03.43:937][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.12.06-22.03.43:951][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.06-22.03.44:052][256]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2024.12.06-22.03.44:052][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-22.03.44:053][256]LogAIModule: Creating AISystem for world Level1
+[2024.12.06-22.03.44:149][256]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-22.03.44:187][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.12.06-22.03.44:197][256]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-22.03.44:197][256]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.265ms to complete.
+[2024.12.06-22.03.44:197][256]LogFileHelpers: Loading map 'Level1' took 0.393
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: ================================================
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Total job queries 306, among them cache hits 60 (19.61%)
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Tracking 244 distinct input hashes that result in 136 distinct outputs (55.74%)
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: RAM used: 1.96 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.06%
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Shaders Compiled: 139
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Jobs assigned 141, completed 139 (98.58%)
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Average time worker was idle: 13.32 s
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Time job spent in pending queue: average 1.55 s, longest 4.02 s
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Job execution time: average 0.89 s, max 3.55 s
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Job life time (pending + execution): average 2.46 s, max 6.37
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.25 s
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Jobs were issued in 141 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Average processing rate: 10.49 jobs/sec
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Total thread time: 89.89 s
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Total thread preprocess time: 4.11 s
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Percentage time preprocessing: 4.57%
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Effective parallelization: 6.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 2.71 sec, max 3.43 sec, min 0.60 sec)
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 2.55 sec, max 3.24 sec, min 0.58 sec)
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    8 times, average 0.68 sec, max 0.71 sec, min 0.63 sec)
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   28 times, average 0.64 sec, max 0.73 sec, min 0.55 sec)
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled   12 times, average 0.58 sec, max 0.60 sec, min 0.55 sec)
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.36% of total time (compiled   33 times, average 0.58 sec, max 0.67 sec, min 0.48 sec)
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.90% of total time (compiled   28 times, average 0.64 sec, max 0.73 sec, min 0.55 sec)
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 12.05% of total time (compiled    4 times, average 2.71 sec, max 3.43 sec, min 0.60 sec)
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 11.37% of total time (compiled    4 times, average 2.55 sec, max 3.24 sec, min 0.58 sec)
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.88% of total time (compiled   18 times, average 0.49 sec, max 0.52 sec, min 0.45 sec)
+[2024.12.06-22.03.57:775][809]LogShaderCompilers: Display: ================================================
+[2024.12.06-22.04.06:175][755]Cmd: DELETE
+[2024.12.06-22.04.06:184][755]Cmd: ACTOR DELETE
+[2024.12.06-22.04.06:208][755]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.06:209][755]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.06:210][755]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.06:211][755]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.06:212][755]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.06:214][755]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.06:215][755]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.06:216][755]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.06:217][755]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.06:218][755]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.06:233][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.12.06-22.04.06:236][755]LogEditorActor: Deleted 10 Actors (0.051 secs)
+[2024.12.06-22.04.14:678][616]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.06-22.04.14:682][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.06-22.04.14:682][616]PIE: New page: PIE session: Level1 (Dec 6, 2024, 12:04:14 PM)
+[2024.12.06-22.04.14:685][616]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.12.06-22.04.14:685][616]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.12.06-22.04.14:685][616]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Level1
+[2024.12.06-22.04.14:799][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114126s)
+[2024.12.06-22.04.14:799][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Level1.Level1 to /Game/Scene/UEDPIE_0_Level1.Level1 (0.114262s)
+[2024.12.06-22.04.14:799][616]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-22.04.14:799][616]LogAIModule: Creating AISystem for world Level1
+[2024.12.06-22.04.14:800][616]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2024.12.06-22.04.14:816][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.06-22.04.14:818][616]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.12.06-22.04.14:818][616]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.06-22.04.14:818][616]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.06-22.04.14:818][616]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.06-22.04.14:818][616]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.06-22.04.14:818][616]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.06-22.04.14:818][616]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.12.06-22.04.14:818][616]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.06-22.04.14:818][616]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.06-22.04.14:818][616]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.06-22.04.14:818][616]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.06-22.04.14:818][616]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.06-22.04.14:820][616]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.06-22.04.14:842][616]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek USB Audio)
+[2024.12.06-22.04.14:842][616]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.06-22.04.14:842][616]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.06-22.04.14:842][616]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.06-22.04.14:842][616]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.12.06-22.04.14:842][616]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.12.06-22.04.14:844][616]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.12.06-22.04.14:844][616]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.12.06-22.04.14:844][616]LogInit: FAudioDevice initialized.
+[2024.12.06-22.04.14:844][616]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2024.12.06-22.04.14:847][616]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.06-22.04.14:904][616]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.12.06-17.04.14
+[2024.12.06-22.04.14:905][616]LogWorld: Bringing up level for play took: 0.058141
+[2024.12.06-22.04.14:907][616]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.12.06-22.04.14:923][616]LogScript: Warning: Script Msg: The widget 'HealthWidget_C_0' was already added to the screen.
+[2024.12.06-22.04.14:923][616]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C.ExecuteUbergraph_BP_ThirdPersonCharacter
+
+[2024.12.06-22.04.14:923][616]PIE: Server logged in
+[2024.12.06-22.04.14:924][616]PIE: Play in editor total start time 0.242 seconds.
+[2024.12.06-22.04.24:268][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.06-22.04.24:268][464]LogWorld: BeginTearingDown for /Game/Scene/UEDPIE_0_Level1
+[2024.12.06-22.04.24:270][464]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-22.04.24:277][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.04.24:281][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.06-22.04.24:286][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.04.24:303][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.06-22.04.24:303][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.06-22.04.24:305][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.06-22.04.24:357][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.12.06-22.04.24:409][465]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.12.06-22.04.33:439][457]Cmd: DELETE
+[2024.12.06-22.04.33:439][457]Cmd: ACTOR DELETE
+[2024.12.06-22.04.33:462][457]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.33:463][457]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.33:464][457]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.33:465][457]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.33:466][457]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.33:503][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.06-22.04.33:506][457]LogEditorActor: Deleted 5 Actors (0.066 secs)
+[2024.12.06-22.04.36:488][765]Cmd: DELETE
+[2024.12.06-22.04.36:488][765]Cmd: ACTOR DELETE
+[2024.12.06-22.04.36:510][765]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.36:512][765]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.36:526][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.06-22.04.36:532][765]LogEditorActor: Deleted 2 Actors (0.044 secs)
+[2024.12.06-22.04.44:807][667]Cmd: DELETE
+[2024.12.06-22.04.44:807][667]Cmd: ACTOR DELETE
+[2024.12.06-22.04.44:830][667]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.44:831][667]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.44:832][667]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.44:833][667]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.44:834][667]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.44:835][667]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.44:851][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.06-22.04.44:854][667]LogEditorActor: Deleted 6 Actors (0.047 secs)
+[2024.12.06-22.04.53:120][602]Cmd: DELETE
+[2024.12.06-22.04.53:120][602]Cmd: ACTOR DELETE
+[2024.12.06-22.04.53:142][602]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.53:144][602]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.53:145][602]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.04.53:161][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.12.06-22.04.53:163][602]LogEditorActor: Deleted 3 Actors (0.043 secs)
+[2024.12.06-22.05.02:132][607]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Boss/Shilaimu.Shilaimu_C
+[2024.12.06-22.05.02:133][607]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Boss/Shilaimu.Shilaimu_C
+[2024.12.06-22.05.02:135][607]LogActorFactory: Actor Factory spawned Blueprint /Game/Boss/Shilaimu.Shilaimu as actor: Shilaimu_C /Game/Scene/Level1.Level1:PersistentLevel.Shilaimu_C_0
+[2024.12.06-22.05.02:137][607]LogActorFactory: Actor Factory spawned Blueprint /Game/Boss/Shilaimu.Shilaimu as actor: Shilaimu_C /Game/Scene/Level1.Level1:PersistentLevel.Shilaimu_C_0
+[2024.12.06-22.05.02:616][650]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Boss/Shilaimu.Shilaimu_C
+[2024.12.06-22.05.02:616][650]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Boss/Shilaimu.Shilaimu_C
+[2024.12.06-22.05.02:621][650]LogActorFactory: Actor Factory spawned Blueprint /Game/Boss/Shilaimu.Shilaimu as actor: Shilaimu_C /Game/Scene/Level1.Level1:PersistentLevel.Shilaimu_C_1
+[2024.12.06-22.05.02:622][650]LogActorFactory: Actor Factory spawned Blueprint /Game/Boss/Shilaimu.Shilaimu as actor: Shilaimu_C /Game/Scene/Level1.Level1:PersistentLevel.Shilaimu_C_1
+[2024.12.06-22.05.38:056][683]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.06-22.05.38:059][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.06-22.05.38:059][683]PIE: New page: PIE session: Level1 (Dec 6, 2024, 12:05:38 PM)
+[2024.12.06-22.05.38:097][683]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Level1
+[2024.12.06-22.05.38:213][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115594s)
+[2024.12.06-22.05.38:213][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Level1.Level1 to /Game/Scene/UEDPIE_0_Level1.Level1 (0.115626s)
+[2024.12.06-22.05.38:213][683]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-22.05.38:213][683]LogAIModule: Creating AISystem for world Level1
+[2024.12.06-22.05.38:214][683]LogPlayLevel: PIE: World Init took: (0.001252s)
+[2024.12.06-22.05.38:235][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.12.06-22.05.38:243][683]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.12.06-22.05.38:243][683]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.06-22.05.38:243][683]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.06-22.05.38:243][683]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.06-22.05.38:243][683]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.06-22.05.38:243][683]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.06-22.05.38:243][683]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.12.06-22.05.38:243][683]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.06-22.05.38:243][683]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.06-22.05.38:243][683]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.06-22.05.38:243][683]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.06-22.05.38:243][683]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.06-22.05.38:245][683]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.06-22.05.38:264][683]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek USB Audio)
+[2024.12.06-22.05.38:265][683]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.06-22.05.38:265][683]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.06-22.05.38:265][683]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.06-22.05.38:265][683]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.12.06-22.05.38:265][683]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.12.06-22.05.38:266][683]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.12.06-22.05.38:266][683]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.12.06-22.05.38:266][683]LogInit: FAudioDevice initialized.
+[2024.12.06-22.05.38:266][683]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2024.12.06-22.05.38:288][683]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.06-22.05.38:345][683]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.12.06-17.05.38
+[2024.12.06-22.05.38:346][683]LogWorld: Bringing up level for play took: 0.058307
+[2024.12.06-22.05.38:348][683]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.12.06-22.05.38:352][683]LogScript: Warning: Script Msg: The widget 'HealthWidget_C_0' was already added to the screen.
+[2024.12.06-22.05.38:352][683]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C.ExecuteUbergraph_BP_ThirdPersonCharacter
+
+[2024.12.06-22.05.38:352][683]PIE: Server logged in
+[2024.12.06-22.05.38:353][683]PIE: Play in editor total start time 0.294 seconds.
+[2024.12.06-22.06.15:637][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.06-22.06.15:637][892]LogWorld: BeginTearingDown for /Game/Scene/UEDPIE_0_Level1
+[2024.12.06-22.06.15:638][892]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-22.06.15:647][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.06.15:650][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.06-22.06.15:654][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.06.15:672][892]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-22.06.15:675][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.12.06-22.06.15:676][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.12.06-22.06.15:680][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.06-22.06.15:701][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.12.06-22.06.15:729][893]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.12.06-22.06.27:536][209]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Boss/BossZone.BossZone_C
+[2024.12.06-22.06.27:537][209]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Boss/BossZone.BossZone_C
+[2024.12.06-22.06.27:538][209]LogActorFactory: Actor Factory spawned Blueprint /Game/Boss/BossZone.BossZone as actor: BossZone_C /Game/Scene/Level1.Level1:PersistentLevel.BossZone_C_0
+[2024.12.06-22.06.27:540][209]LogActorFactory: Actor Factory spawned Blueprint /Game/Boss/BossZone.BossZone as actor: BossZone_C /Game/Scene/Level1.Level1:PersistentLevel.BossZone_C_0
+[2024.12.06-22.06.28:198][267]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Boss/BossZone.BossZone_C
+[2024.12.06-22.06.28:198][267]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Boss/BossZone.BossZone_C
+[2024.12.06-22.06.28:202][267]LogActorFactory: Actor Factory spawned Blueprint /Game/Boss/BossZone.BossZone as actor: BossZone_C /Game/Scene/Level1.Level1:PersistentLevel.BossZone_C_1
+[2024.12.06-22.06.28:203][267]LogActorFactory: Actor Factory spawned Blueprint /Game/Boss/BossZone.BossZone as actor: BossZone_C /Game/Scene/Level1.Level1:PersistentLevel.BossZone_C_1
+[2024.12.06-22.06.46:063][317]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (slide1111_pCylinder242) ...
+[2024.12.06-22.07.00:058][899]Cmd: DELETE
+[2024.12.06-22.07.00:058][899]Cmd: ACTOR DELETE
+[2024.12.06-22.07.00:081][899]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.12.06-22.07.00:098][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.06-22.07.00:103][899]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2024.12.06-22.07.08:615][821]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.12.06-22.07.14:317][195]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.12.06-22.07.15:361][316]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.06-22.07.15:364][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.06-22.07.15:364][316]PIE: New page: PIE session: Level1 (Dec 6, 2024, 12:07:15 PM)
+[2024.12.06-22.07.15:364][316]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Level1
+[2024.12.06-22.07.15:475][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111080s)
+[2024.12.06-22.07.15:475][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Level1.Level1 to /Game/Scene/UEDPIE_0_Level1.Level1 (0.111103s)
+[2024.12.06-22.07.15:476][316]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-22.07.15:476][316]LogAIModule: Creating AISystem for world Level1
+[2024.12.06-22.07.15:477][316]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2024.12.06-22.07.15:492][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.06-22.07.15:495][316]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.12.06-22.07.15:495][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.06-22.07.15:495][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.06-22.07.15:495][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.06-22.07.15:495][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.06-22.07.15:495][316]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.06-22.07.15:495][316]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.12.06-22.07.15:495][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.06-22.07.15:495][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.06-22.07.15:495][316]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.06-22.07.15:495][316]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.06-22.07.15:495][316]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.06-22.07.15:497][316]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.06-22.07.15:516][316]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek USB Audio)
+[2024.12.06-22.07.15:516][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.06-22.07.15:516][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.06-22.07.15:516][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.06-22.07.15:517][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.12.06-22.07.15:517][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.12.06-22.07.15:518][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.12.06-22.07.15:518][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.12.06-22.07.15:518][316]LogInit: FAudioDevice initialized.
+[2024.12.06-22.07.15:518][316]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2024.12.06-22.07.15:521][316]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.06-22.07.15:578][316]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.12.06-17.07.15
+[2024.12.06-22.07.15:579][316]LogWorld: Bringing up level for play took: 0.057521
+[2024.12.06-22.07.15:581][316]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.12.06-22.07.15:584][316]LogScript: Warning: Script Msg: The widget 'HealthWidget_C_0' was already added to the screen.
+[2024.12.06-22.07.15:584][316]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C.ExecuteUbergraph_BP_ThirdPersonCharacter
+
+[2024.12.06-22.07.15:584][316]PIE: Server logged in
+[2024.12.06-22.07.15:585][316]PIE: Play in editor total start time 0.221 seconds.
+[2024.12.06-22.07.26:397][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.06-22.07.26:397][471]LogWorld: BeginTearingDown for /Game/Scene/UEDPIE_0_Level1
+[2024.12.06-22.07.26:398][471]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-22.07.26:407][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.07.26:410][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.06-22.07.26:414][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.07.26:435][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.06-22.07.26:435][471]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.12.06-22.07.26:437][471]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.12.06-22.07.26:459][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.06-22.07.26:503][472]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.12.06-22.07.33:997][ 53]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.12.06-22.08.02:891][307]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Smallslime.Smallslime_C
+[2024.12.06-22.08.02:891][307]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Smallslime.Smallslime_C
+[2024.12.06-22.08.02:893][307]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Smallslime.Smallslime as actor: Smallslime_C /Game/Scene/Level1.Level1:PersistentLevel.Smallslime_C_0
+[2024.12.06-22.08.02:895][307]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Smallslime.Smallslime as actor: Smallslime_C /Game/Scene/Level1.Level1:PersistentLevel.Smallslime_C_0
+[2024.12.06-22.08.03:481][366]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Smallslime.Smallslime_C
+[2024.12.06-22.08.03:481][366]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Smallslime.Smallslime_C
+[2024.12.06-22.08.03:487][366]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Smallslime.Smallslime as actor: Smallslime_C /Game/Scene/Level1.Level1:PersistentLevel.Smallslime_C_1
+[2024.12.06-22.08.03:489][366]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Smallslime.Smallslime as actor: Smallslime_C /Game/Scene/Level1.Level1:PersistentLevel.Smallslime_C_1
+[2024.12.06-22.08.07:222][758]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.12.06-22.08.11:526][243]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Generates.Generates_C
+[2024.12.06-22.08.11:526][243]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Generates.Generates_C
+[2024.12.06-22.08.11:528][243]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Generates.Generates as actor: Generates_C /Game/Scene/Level1.Level1:PersistentLevel.Generates_C_0
+[2024.12.06-22.08.11:530][243]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Generates.Generates as actor: Generates_C /Game/Scene/Level1.Level1:PersistentLevel.Generates_C_0
+[2024.12.06-22.08.11:904][280]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Generates.Generates_C
+[2024.12.06-22.08.11:904][280]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Generates.Generates_C
+[2024.12.06-22.08.11:908][280]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Generates.Generates as actor: Generates_C /Game/Scene/Level1.Level1:PersistentLevel.Generates_C_1
+[2024.12.06-22.08.11:910][280]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Generates.Generates as actor: Generates_C /Game/Scene/Level1.Level1:PersistentLevel.Generates_C_1
+[2024.12.06-22.08.24:218][660]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.06-22.08.24:222][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.06-22.08.24:222][660]PIE: New page: PIE session: Level1 (Dec 6, 2024, 12:08:24 PM)
+[2024.12.06-22.08.24:257][660]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Level1
+[2024.12.06-22.08.24:374][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116860s)
+[2024.12.06-22.08.24:374][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Level1.Level1 to /Game/Scene/UEDPIE_0_Level1.Level1 (0.116901s)
+[2024.12.06-22.08.24:374][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-22.08.24:374][660]LogAIModule: Creating AISystem for world Level1
+[2024.12.06-22.08.24:375][660]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2024.12.06-22.08.24:393][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.06-22.08.24:401][660]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.12.06-22.08.24:401][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.06-22.08.24:401][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.06-22.08.24:401][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.06-22.08.24:401][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.06-22.08.24:401][660]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.06-22.08.24:401][660]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.12.06-22.08.24:401][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.06-22.08.24:401][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.06-22.08.24:402][660]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.06-22.08.24:402][660]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.06-22.08.24:402][660]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.06-22.08.24:403][660]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.06-22.08.24:422][660]LogAudioMixer: Display: Using Audio Hardware Device 耳机 (Realtek USB Audio)
+[2024.12.06-22.08.24:422][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.06-22.08.24:422][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.06-22.08.24:422][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.06-22.08.24:423][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.12.06-22.08.24:423][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.12.06-22.08.24:424][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.12.06-22.08.24:424][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.12.06-22.08.24:424][660]LogInit: FAudioDevice initialized.
+[2024.12.06-22.08.24:424][660]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2024.12.06-22.08.24:427][660]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.06-22.08.24:483][660]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.12.06-17.08.24
+[2024.12.06-22.08.24:485][660]LogWorld: Bringing up level for play took: 0.057712
+[2024.12.06-22.08.24:486][660]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.12.06-22.08.24:491][660]LogScript: Warning: Script Msg: The widget 'HealthWidget_C_0' was already added to the screen.
+[2024.12.06-22.08.24:491][660]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C.ExecuteUbergraph_BP_ThirdPersonCharacter
+
+[2024.12.06-22.08.24:491][660]PIE: Server logged in
+[2024.12.06-22.08.24:492][660]PIE: Play in editor total start time 0.271 seconds.
+[2024.12.06-22.08.41:427][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.06-22.08.41:427][510]LogWorld: BeginTearingDown for /Game/Scene/UEDPIE_0_Level1
+[2024.12.06-22.08.41:428][510]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-22.08.41:438][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.08.41:441][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.06-22.08.41:445][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-22.08.41:468][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-22.08.41:469][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.12.06-22.08.41:471][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.12.06-22.08.41:473][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.06-22.08.41:493][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.12.06-22.08.41:523][511]LogPlayLevel: Display: Destroying online subsystem :Context_16
