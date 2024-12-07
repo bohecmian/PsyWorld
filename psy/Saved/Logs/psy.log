@@ -1718,3 +1718,458 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.12.07-21.56.50:127][ 55]LogEditorActor: Deleted Actor: Smallslime_C
 [2024.12.07-21.56.50:143][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
 [2024.12.07-21.56.50:145][ 55]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2024.12.07-21.57.05:699][903]Cmd: DELETE
+[2024.12.07-21.57.05:700][903]Cmd: ACTOR DELETE
+[2024.12.07-21.57.05:711][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.05:712][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.05:713][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.05:713][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.05:714][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.05:715][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.05:716][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.05:716][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.05:717][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.05:733][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.12.07-21.57.05:734][903]LogEditorActor: Deleted 9 Actors (0.035 secs)
+[2024.12.07-21.57.13:669][815]Cmd: DELETE
+[2024.12.07-21.57.13:669][815]Cmd: ACTOR DELETE
+[2024.12.07-21.57.13:680][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:681][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:682][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:683][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:683][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:684][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:684][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:685][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:686][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:686][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:687][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:688][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:688][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:689][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:690][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:690][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:691][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.13:708][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.12.07-21.57.13:710][815]LogEditorActor: Deleted 17 Actors (0.041 secs)
+[2024.12.07-21.57.36:134][464]Cmd: DELETE
+[2024.12.07-21.57.36:134][464]Cmd: ACTOR DELETE
+[2024.12.07-21.57.36:146][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:147][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:147][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:148][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:149][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:149][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:150][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:150][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:151][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:152][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:152][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:153][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:154][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:154][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:155][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:156][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:156][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:157][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:157][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:158][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:159][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:159][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:160][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:161][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:161][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:162][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:162][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:163][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:164][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:164][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.36:180][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.07-21.57.36:182][464]LogEditorActor: Deleted 30 Actors (0.048 secs)
+[2024.12.07-21.57.44:780][390]Cmd: DELETE
+[2024.12.07-21.57.44:780][390]Cmd: ACTOR DELETE
+[2024.12.07-21.57.44:792][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.44:793][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.44:793][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.44:794][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.44:795][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.44:795][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.44:796][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.44:797][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.44:797][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.44:798][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.44:799][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.44:815][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.12.07-21.57.44:817][390]LogEditorActor: Deleted 11 Actors (0.036 secs)
+[2024.12.07-21.57.47:254][663]Cmd: DELETE
+[2024.12.07-21.57.47:254][663]Cmd: ACTOR DELETE
+[2024.12.07-21.57.47:265][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.47:266][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.47:267][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.47:268][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.47:268][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.47:269][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.47:269][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.47:270][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.47:271][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.47:271][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.47:272][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.47:273][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.47:288][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.12.07-21.57.47:289][663]LogEditorActor: Deleted 12 Actors (0.036 secs)
+[2024.12.07-21.57.49:453][901]Cmd: DELETE
+[2024.12.07-21.57.49:453][901]Cmd: ACTOR DELETE
+[2024.12.07-21.57.49:465][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.49:465][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.49:466][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.49:467][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.49:467][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.49:468][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.49:469][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.49:469][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.49:470][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.49:471][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.49:471][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.49:472][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.49:487][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.07-21.57.49:489][901]LogEditorActor: Deleted 12 Actors (0.035 secs)
+[2024.12.07-21.57.53:243][327]Cmd: DELETE
+[2024.12.07-21.57.53:243][327]Cmd: ACTOR DELETE
+[2024.12.07-21.57.53:254][327]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.53:270][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.07-21.57.53:272][327]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.12.07-21.57.58:586][876]Cmd: DELETE
+[2024.12.07-21.57.58:586][876]Cmd: ACTOR DELETE
+[2024.12.07-21.57.58:597][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.58:598][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.58:598][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.58:599][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.58:600][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.58:600][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.58:601][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.58:602][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.58:602][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.58:603][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.58:604][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.58:604][876]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.57.58:619][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.07-21.57.58:620][876]LogEditorActor: Deleted 12 Actors (0.035 secs)
+[2024.12.07-21.58.08:610][962]Cmd: DELETE
+[2024.12.07-21.58.08:610][962]Cmd: ACTOR DELETE
+[2024.12.07-21.58.08:621][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:622][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:623][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:623][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:624][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:625][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:625][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:626][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:627][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:627][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:628][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:628][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:629][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:630][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:630][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:631][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:632][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:632][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:633][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:633][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:634][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:635][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:635][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:636][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:636][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:637][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:638][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:638][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:639][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:640][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:640][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:641][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:641][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:642][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:643][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:643][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:644][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.08:660][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.12.07-21.58.08:661][962]LogEditorActor: Deleted 37 Actors (0.051 secs)
+[2024.12.07-21.58.14:781][595]Cmd: DELETE
+[2024.12.07-21.58.14:781][595]Cmd: ACTOR DELETE
+[2024.12.07-21.58.14:792][595]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.14:793][595]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.14:794][595]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.14:795][595]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.14:795][595]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.14:796][595]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.14:797][595]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.14:797][595]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.14:814][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.12.07-21.58.14:815][595]LogEditorActor: Deleted 8 Actors (0.033 secs)
+[2024.12.07-21.58.19:389][ 91]Cmd: DELETE
+[2024.12.07-21.58.19:389][ 91]Cmd: ACTOR DELETE
+[2024.12.07-21.58.19:400][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:401][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:402][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:402][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:403][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:404][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:404][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:405][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:405][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:406][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:407][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:407][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:408][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:408][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:409][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:410][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:410][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:411][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.19:427][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.07-21.58.19:429][ 91]LogEditorActor: Deleted 18 Actors (0.040 secs)
+[2024.12.07-21.58.28:466][ 72]Cmd: DELETE
+[2024.12.07-21.58.28:466][ 72]Cmd: ACTOR DELETE
+[2024.12.07-21.58.28:477][ 72]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.28:492][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.07-21.58.28:493][ 72]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.12.07-21.58.31:902][434]Cmd: DELETE
+[2024.12.07-21.58.31:902][434]Cmd: ACTOR DELETE
+[2024.12.07-21.58.31:912][434]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.31:928][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.07-21.58.31:929][434]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2024.12.07-21.58.36:374][931]Cmd: DELETE
+[2024.12.07-21.58.36:374][931]Cmd: ACTOR DELETE
+[2024.12.07-21.58.36:385][931]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.36:386][931]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.36:401][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.12.07-21.58.36:402][931]LogEditorActor: Deleted 2 Actors (0.028 secs)
+[2024.12.07-21.58.39:884][292]Cmd: DELETE
+[2024.12.07-21.58.39:884][292]Cmd: ACTOR DELETE
+[2024.12.07-21.58.39:895][292]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-21.58.39:910][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.12.07-21.58.39:912][292]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2024.12.07-21.58.53:227][881]LogSlate: Window 'Shilaimu' being destroyed
+[2024.12.07-21.58.53:235][881]LogSlate: Window 'Shilaimu' being destroyed
+[2024.12.07-21.58.53:237][881]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-21.58.53:237][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: ================================================
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Total job queries 253, among them cache hits 14 (5.53%)
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Tracking 239 distinct input hashes that result in 175 distinct outputs (73.22%)
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: RAM used: 2.09 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.06%
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Shaders Compiled: 130
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Jobs assigned 130, completed 130 (100.00%)
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Average time worker was idle: 2.67 s
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Time job spent in pending queue: average 1.94 s, longest 5.63 s
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Job execution time: average 2.00 s, max 4.43 s
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Job life time (pending + execution): average 3.94 s, max 6.55
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.06 s
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Jobs were issued in 76 batches (only local compilation was used), average 1.71 jobs/batch
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Average processing rate: 14.35 jobs/sec
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Total thread time: 92.41 s
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Total thread preprocess time: 3.99 s
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Percentage time preprocessing: 4.31%
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Effective parallelization: 10.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 1.17 sec, max 1.72 sec, min 0.62 sec)
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    2 times, average 1.16 sec, max 1.70 sec, min 0.62 sec)
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    2 times, average 1.14 sec, max 1.67 sec, min 0.60 sec)
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    2 times, average 1.13 sec, max 1.66 sec, min 0.61 sec)
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 1.12 sec, max 1.62 sec, min 0.62 sec)
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 17.07% of total time (compiled   17 times, average 0.93 sec, max 1.25 sec, min 0.67 sec)
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.64% of total time (compiled    9 times, average 0.68 sec, max 1.40 sec, min 0.50 sec)
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.27% of total time (compiled    9 times, average 0.54 sec, max 0.61 sec, min 0.45 sec)
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.01% of total time (compiled    8 times, average 0.46 sec, max 0.51 sec, min 0.40 sec)
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.77% of total time (compiled    4 times, average 0.87 sec, max 1.42 sec, min 0.58 sec)
+[2024.12.07-21.58.57:170][333]LogShaderCompilers: Display: ================================================
+[2024.12.07-21.59.03:419][ 13]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_polySurface107
+[2024.12.07-21.59.03:419][ 13]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_polySurface107
+[2024.12.07-21.59.03:420][ 13]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_polySurface107 as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_0
+[2024.12.07-21.59.03:421][ 13]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_polySurface107 as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_0
+[2024.12.07-21.59.03:983][ 71]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_polySurface107
+[2024.12.07-21.59.03:983][ 71]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_polySurface107
+[2024.12.07-21.59.03:985][ 71]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_polySurface107 as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_1
+[2024.12.07-21.59.03:986][ 71]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_polySurface107 as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_1
+[2024.12.07-21.59.58:708][498]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Asset/Huati/slide1111_pCylinder242_Skeleton.slide1111_pCylinder242_Skeleton
+[2024.12.07-21.59.58:708][498]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Asset/Huati/slide1111_pCylinder242_Skeleton.slide1111_pCylinder242_Skeleton
+[2024.12.07-21.59.58:709][498]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_pCylinder242 as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_2
+[2024.12.07-21.59.58:710][498]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_pCylinder242 as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_2
+[2024.12.07-21.59.59:162][544]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Asset/Huati/slide1111_pCylinder242_Skeleton.slide1111_pCylinder242_Skeleton
+[2024.12.07-21.59.59:162][544]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Asset/Huati/slide1111_pCylinder242_Skeleton.slide1111_pCylinder242_Skeleton
+[2024.12.07-21.59.59:164][544]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_pCylinder242 as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_3
+[2024.12.07-21.59.59:165][544]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_pCylinder242 as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_3
+[2024.12.07-22.00.18:862][722]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_II_to_III_bridge
+[2024.12.07-22.00.18:871][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.07-22.00.18:908][722]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.07-22.00.19:256][722]LogViewport: Scene viewport resized to 1525x1226, mode Windowed.
+[2024.12.07-22.00.21:357][940]LogSlate: Window 'slide1111_II_to_III_bridge' being destroyed
+[2024.12.07-22.00.21:361][940]LogSlate: Window 'slide1111_II_to_III_bridge' being destroyed
+[2024.12.07-22.00.21:372][940]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-22.00.21:372][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.00.24:002][215]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_II_to_III_bridge
+[2024.12.07-22.00.24:002][215]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_II_to_III_bridge
+[2024.12.07-22.00.24:003][215]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_II_to_III_bridge as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_4
+[2024.12.07-22.00.24:004][215]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_II_to_III_bridge as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_4
+[2024.12.07-22.00.24:517][271]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_II_to_III_bridge
+[2024.12.07-22.00.24:517][271]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_II_to_III_bridge
+[2024.12.07-22.00.24:519][271]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_II_to_III_bridge as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_5
+[2024.12.07-22.00.24:520][271]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_II_to_III_bridge as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_5
+[2024.12.07-22.00.31:707][ 67]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Asset/Huati/slide1111_first_Skeleton.slide1111_first_Skeleton
+[2024.12.07-22.00.31:707][ 67]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Asset/Huati/slide1111_first_Skeleton.slide1111_first_Skeleton
+[2024.12.07-22.00.31:708][ 67]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_first as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_6
+[2024.12.07-22.00.31:709][ 67]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_first as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_6
+[2024.12.07-22.00.32:025][ 99]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Asset/Huati/slide1111_first_Skeleton.slide1111_first_Skeleton
+[2024.12.07-22.00.32:025][ 99]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Asset/Huati/slide1111_first_Skeleton.slide1111_first_Skeleton
+[2024.12.07-22.00.32:027][ 99]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_first as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_7
+[2024.12.07-22.00.32:028][ 99]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_first as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_7
+[2024.12.07-22.00.42:447][292]Cmd: DELETE
+[2024.12.07-22.00.42:447][292]Cmd: ACTOR DELETE
+[2024.12.07-22.00.42:458][292]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-22.00.42:501][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.12.07-22.00.42:505][292]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2024.12.07-22.00.45:697][667]Cmd: DELETE
+[2024.12.07-22.00.45:697][667]Cmd: ACTOR DELETE
+[2024.12.07-22.00.45:708][667]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-22.00.45:745][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.07-22.00.45:753][667]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2024.12.07-22.00.46:411][738]Cmd: DELETE
+[2024.12.07-22.00.46:411][738]Cmd: ACTOR DELETE
+[2024.12.07-22.00.46:421][738]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-22.00.46:433][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.12.07-22.00.46:436][738]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.12.07-22.00.46:803][774]Cmd: DELETE
+[2024.12.07-22.00.46:803][774]Cmd: ACTOR DELETE
+[2024.12.07-22.00.46:814][774]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-22.00.46:826][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.07-22.00.46:828][774]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.12.07-22.00.47:290][822]Cmd: DELETE
+[2024.12.07-22.00.47:290][822]Cmd: ACTOR DELETE
+[2024.12.07-22.00.47:301][822]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-22.00.47:314][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.12.07-22.00.47:316][822]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.12.07-22.00.47:705][862]Cmd: DELETE
+[2024.12.07-22.00.47:705][862]Cmd: ACTOR DELETE
+[2024.12.07-22.00.47:717][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-22.00.47:730][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.07-22.00.47:732][862]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.12.07-22.00.48:162][906]Cmd: DELETE
+[2024.12.07-22.00.48:162][906]Cmd: ACTOR DELETE
+[2024.12.07-22.00.48:173][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-22.00.48:185][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.07-22.00.48:187][906]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.12.07-22.00.53:098][308]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Asset/Huati/slide1111_character_Skeleton.slide1111_character_Skeleton
+[2024.12.07-22.00.53:098][308]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Asset/Huati/slide1111_character_Skeleton.slide1111_character_Skeleton
+[2024.12.07-22.00.53:100][308]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_character as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_8
+[2024.12.07-22.00.53:100][308]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_character as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_8
+[2024.12.07-22.00.53:306][329]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Asset/Huati/slide1111_character_Skeleton.slide1111_character_Skeleton
+[2024.12.07-22.00.53:306][329]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Asset/Huati/slide1111_character_Skeleton.slide1111_character_Skeleton
+[2024.12.07-22.00.53:308][329]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_character as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_9
+[2024.12.07-22.00.53:309][329]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Huati/slide1111.slide1111_character as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_9
+[2024.12.07-22.01.01:278][224]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Asset/Huati/slide1111_polySurface107_Skeleton.slide1111_polySurface107_Skeleton
+[2024.12.07-22.01.01:279][224]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.07-22.01.01:292][224]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.07-22.01.01:408][224]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.07-22.01.01:455][224]LogViewport: Scene viewport resized to 1525x1226, mode Windowed.
+[2024.12.07-22.01.02:867][372]LogSlate: Window 'slide1111_polySurface107_Skeleton' being destroyed
+[2024.12.07-22.01.02:872][372]LogSlate: Window 'slide1111_polySurface107_Skeleton' being destroyed
+[2024.12.07-22.01.02:882][372]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-22.01.02:882][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.01.02:904][372]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.12.07-22.01.02:904][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.07-22.01.22:178][452]LogSkeletalMesh: Building Skeletal Mesh 1...
+[2024.12.07-22.01.22:197][452]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (1) ...
+[2024.12.07-22.01.22:199][452]LogSkeletalMesh: Display: /Game/Asset/Slime2/1.1 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.12.07-22.01.22:269][452]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/Asset/Slime2/1.1
+[2024.12.07-22.01.22:299][452]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Asset/Slime2/1.1
+[2024.12.07-22.01.22:299][452]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Asset/Slime2/1.1
+[2024.12.07-22.01.22:299][452]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Slime2/1.1 as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_10
+[2024.12.07-22.01.22:300][452]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Slime2/1.1 as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_10
+[2024.12.07-22.01.22:744][486]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Asset/Slime2/1.1
+[2024.12.07-22.01.22:744][486]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Asset/Slime2/1.1
+[2024.12.07-22.01.22:746][486]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Slime2/1.1 as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_11
+[2024.12.07-22.01.22:747][486]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Slime2/1.1 as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_11
+[2024.12.07-22.01.34:551][855]LogSkeletalMesh: Building Skeletal Mesh 2...
+[2024.12.07-22.01.34:567][855]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Asset/Slime2/2.2
+[2024.12.07-22.01.34:678][857]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Asset/Slime2/2.2
+[2024.12.07-22.01.34:678][857]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Asset/Slime2/2.2
+[2024.12.07-22.01.34:678][857]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Slime2/2.2 as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_12
+[2024.12.07-22.01.34:679][857]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Slime2/2.2 as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_12
+[2024.12.07-22.01.34:868][875]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Asset/Slime2/2.2
+[2024.12.07-22.01.34:868][875]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Asset/Slime2/2.2
+[2024.12.07-22.01.34:870][875]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Slime2/2.2 as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_13
+[2024.12.07-22.01.34:871][875]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Asset/Slime2/2.2 as actor: SkeletalMeshActor /Game/Scene/Level1.Level1:PersistentLevel.SkeletalMeshActor_13
+[2024.12.07-22.02.00:067][741]Cmd: DELETE
+[2024.12.07-22.02.00:067][741]Cmd: ACTOR DELETE
+[2024.12.07-22.02.00:067][741]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2024.12.07-22.02.00:078][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-22.02.00:092][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.12.07-22.02.00:097][741]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2024.12.07-22.02.01:329][886]Cmd: TRANSACTION UNDO
+[2024.12.07-22.02.01:329][886]LogEditorTransaction: Undo Delete Elements
+[2024.12.07-22.02.04:364][165]Cmd: DELETE
+[2024.12.07-22.02.04:364][165]Cmd: ACTOR DELETE
+[2024.12.07-22.02.04:375][165]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-22.02.04:389][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.12.07-22.02.04:391][165]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.12.07-22.02.05:985][334]Cmd: DELETE
+[2024.12.07-22.02.05:985][334]Cmd: ACTOR DELETE
+[2024.12.07-22.02.05:996][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-22.02.06:007][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.12.07-22.02.06:009][334]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.12.07-22.02.07:550][511]Cmd: DELETE
+[2024.12.07-22.02.07:550][511]Cmd: ACTOR DELETE
+[2024.12.07-22.02.07:561][511]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.07-22.02.07:573][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.12.07-22.02.07:575][511]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.12.07-22.02.08:473][619]Cmd: TRANSACTION UNDO
+[2024.12.07-22.02.08:473][619]LogEditorTransaction: Undo Delete Elements
+[2024.12.07-22.02.13:685][114]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_01.SM_Bld_House_Preset_01
+[2024.12.07-22.02.13:686][114]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_01.SM_Bld_House_Preset_01
+[2024.12.07-22.02.13:686][114]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_01.SM_Bld_House_Preset_01 as actor: StaticMeshActor /Game/Scene/Level1.Level1:PersistentLevel.StaticMeshActor_0
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: ================================================
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Total job queries 299, among them cache hits 24 (8.03%)
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Tracking 272 distinct input hashes that result in 183 distinct outputs (67.28%)
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: RAM used: 2.29 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.07%
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Shaders Compiled: 155
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Jobs assigned 158, completed 155 (98.10%)
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Average time worker was idle: 121.54 s
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Time job spent in pending queue: average 1.62 s, longest 5.63 s
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Job execution time: average 1.81 s, max 4.43 s
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Job life time (pending + execution): average 3.46 s, max 6.55
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.77 s
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Jobs were issued in 104 batches (only local compilation was used), average 1.52 jobs/batch
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Average processing rate: 12.14 jobs/sec
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Total thread time: 104.27 s
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Total thread preprocess time: 4.73 s
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Percentage time preprocessing: 4.53%
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Effective parallelization: 8.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 1.17 sec, max 1.72 sec, min 0.62 sec)
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    2 times, average 1.16 sec, max 1.70 sec, min 0.62 sec)
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    2 times, average 1.14 sec, max 1.67 sec, min 0.60 sec)
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    2 times, average 1.13 sec, max 1.66 sec, min 0.61 sec)
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 1.12 sec, max 1.62 sec, min 0.62 sec)
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 15.13% of total time (compiled   17 times, average 0.93 sec, max 1.25 sec, min 0.67 sec)
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.14% of total time (compiled   17 times, average 0.62 sec, max 1.40 sec, min 0.50 sec)
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.63% of total time (compiled   17 times, average 0.53 sec, max 0.61 sec, min 0.45 sec)
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.32% of total time (compiled   12 times, average 0.46 sec, max 0.51 sec, min 0.40 sec)
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 3.78% of total time (compiled   13 times, average 0.30 sec, max 0.37 sec, min 0.27 sec)
+[2024.12.07-22.02.14:318][182]LogShaderCompilers: Display: ================================================
+[2024.12.07-22.02.14:457][197]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_01.SM_Bld_House_Preset_01
+[2024.12.07-22.02.14:457][197]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_01.SM_Bld_House_Preset_01
+[2024.12.07-22.02.14:459][197]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_01.SM_Bld_House_Preset_01 as actor: StaticMeshActor /Game/Scene/Level1.Level1:PersistentLevel.StaticMeshActor_1
+[2024.12.07-22.02.19:533][745]Cmd: EDIT COPY
+[2024.12.07-22.02.19:777][773]Cmd: EDIT PASTE
+[2024.12.07-22.02.20:991][909]Cmd: EDIT COPY
+[2024.12.07-22.02.21:208][934]Cmd: EDIT PASTE
+[2024.12.07-22.02.23:466][195]Cmd: EDIT COPY
+[2024.12.07-22.02.23:700][222]Cmd: EDIT PASTE
+[2024.12.07-22.02.26:455][540]Cmd: EDIT COPY
+[2024.12.07-22.02.26:673][565]Cmd: EDIT PASTE
